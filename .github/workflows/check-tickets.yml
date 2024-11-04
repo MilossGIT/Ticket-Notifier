@@ -28,8 +28,9 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y chromium-browser
           chromium-browser --version
+          which chromium-browser
 
-      - name: Create .env file
+      - name: Create and verify .env file
         env:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
@@ -38,24 +39,36 @@ jobs:
           echo "EMAIL_USER=${EMAIL_USER}" > src/.env
           echo "EMAIL_PASS=${EMAIL_PASS}" >> src/.env
           echo "RECIPIENT_EMAILS=${RECIPIENT_EMAILS}" >> src/.env
+          echo "Verifying .env file exists:"
+          ls -la src/.env
+          echo "First line of .env (without password):"
+          head -n 1 src/.env
 
       - name: Check file structure
         run: |
+          echo "Root directory:"
           ls -la
+          echo "src directory:"
           ls -la src/
 
       - name: Run ticket checker
         run: |
+          echo "Starting ticket checker..."
           node src/github-action-runner.js
         env:
           PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
           NODE_ENV: development
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          RECIPIENT_EMAILS: ${{ secrets.RECIPIENT_EMAILS }}
 
-      - name: Upload screenshots if failure
+      - name: Upload artifacts
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: error-screenshots
+          name: logs-and-screenshots
           path: |
             src/*.png
             src/*.log
+            src/.env
+          if-no-files-found: warn
