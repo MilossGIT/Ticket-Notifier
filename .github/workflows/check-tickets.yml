@@ -2,8 +2,8 @@ name: Daily Ticket Check
 
 on:
   schedule:
-    - cron: '0 7 * * *'
-  workflow_dispatch:
+    - cron: '0 9 * * *' # 9:00 AM CEST (7:00 AM UTC)
+  workflow_dispatch: # Allows manual execution of the workflow
 
 jobs:
   check-tickets:
@@ -39,17 +39,6 @@ jobs:
           echo "EMAIL_USER=${EMAIL_USER}" > src/.env
           echo "EMAIL_PASS=${EMAIL_PASS}" >> src/.env
           echo "RECIPIENT_EMAILS=${RECIPIENT_EMAILS}" >> src/.env
-          echo "Verifying .env file exists:"
-          ls -la src/.env
-          echo "First line of .env (without password):"
-          head -n 1 src/.env
-
-      - name: Check file structure
-        run: |
-          echo "Root directory:"
-          ls -la
-          echo "src directory:"
-          ls -la src/
 
       - name: Run ticket checker
         run: |
