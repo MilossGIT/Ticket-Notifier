@@ -1,0 +1,45 @@
+name: Daily Ticket Check
+
+on:
+  schedule:
+    - cron: '0 7 * * *' # Runs at 7:00 AM UTC daily
+  workflow_dispatch: # Allows manual trigger through GitHub UI
+
+jobs:
+  check-tickets:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Chromium
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
+
+      - name: Create .env file
+        run: |
+          echo "EMAIL_USER=${{ secrets.EMAIL_USER }}" >> src/.env
+          echo "EMAIL_PASS=${{ secrets.EMAIL_PASS }}" >> src/.env
+          echo "RECIPIENT_EMAILS=${{ secrets.RECIPIENT_EMAILS }}" >> src/.env
+
+      - name: Run ticket checker
+        run: node src/github-action-runner.js
+        env:
+          PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
+
+      - name: Upload screenshots if failure
+        if: failure()
+        uses: actions/upload-artifact@v2
+        with:
+          name: error-screenshots
+          path: src/*.png
