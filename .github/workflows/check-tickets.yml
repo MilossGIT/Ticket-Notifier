@@ -2,8 +2,8 @@ name: Daily Ticket Check
 
 on:
   schedule:
-    - cron: '0 7 * * *' # Runs at 7:00 AM UTC daily
-  workflow_dispatch: # Allows manual trigger through GitHub UI
+    - cron: '0 7 * * *'
+  workflow_dispatch:
 
 jobs:
   check-tickets:
@@ -19,27 +19,43 @@ jobs:
           node-version: '18'
 
       - name: Install dependencies
-        run: npm ci
+        run: |
+          npm ci
+          npm list
 
       - name: Install Chromium
         run: |
           sudo apt-get update
           sudo apt-get install -y chromium-browser
+          chromium-browser --version
 
       - name: Create .env file
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          RECIPIENT_EMAILS: ${{ secrets.RECIPIENT_EMAILS }}
         run: |
-          echo "EMAIL_USER=${{ secrets.EMAIL_USER }}" >> src/.env
-          echo "EMAIL_PASS=${{ secrets.EMAIL_PASS }}" >> src/.env
-          echo "RECIPIENT_EMAILS=${{ secrets.RECIPIENT_EMAILS }}" >> src/.env
+          echo "EMAIL_USER=${EMAIL_USER}" > src/.env
+          echo "EMAIL_PASS=${EMAIL_PASS}" >> src/.env
+          echo "RECIPIENT_EMAILS=${RECIPIENT_EMAILS}" >> src/.env
+
+      - name: Check file structure
+        run: |
+          ls -la
+          ls -la src/
 
       - name: Run ticket checker
-        run: node src/github-action-runner.js
+        run: |
+          node src/github-action-runner.js
         env:
           PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
+          NODE_ENV: development
 
       - name: Upload screenshots if failure
-        if: failure()
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: error-screenshots
-          path: src/*.png
+          path: |
+            src/*.png
+            src/*.log
