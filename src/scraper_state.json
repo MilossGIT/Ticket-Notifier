@@ -1,1 +1,1384 @@
-{"lastRunDate":"Sun Nov 03 2024","lastRunEvents":[{"title":"No title","date":"No date","price":"undefined EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addBC/1133942"},{"title":"TRANSPORT: ODHOD, premiera","date":"PET., 8. NOV. 2024, OB 19:30","price":"5,00 EUR","venue":"Oder pod zvezdami LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1190983"},{"title":"TRANSPORT: ODHOD, izven","date":"NED., 10. NOV. 2024, OB 19:30","price":"5,00 EUR","venue":"Oder pod zvezdami LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191140"},{"title":"TRANSPORT: ODHOD, izven","date":"PON., 11. NOV. 2024, OB 19:30","price":"5,00 EUR","venue":"Oder pod zvezdami LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191141"},{"title":"TRANSPORT: ODHOD, izven","date":"TOR., 12. NOV. 2024, OB 19:30","price":"5,00 EUR","venue":"Oder pod zvezdami LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191142"},{"title":"GLUHA REPUBLIKA, gostuje LGMB, izven","date":"PET., 15. NOV. 2024, OB 19:30","price":"5,00 EUR","venue":"Šentjakobski oder LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1190985"},{"title":"Z ODRA V MUZEJ, izven","date":"SOB., 16. NOV. 2024, OB 11:00","price":"10,00 EUR","venue":"Preddverje Velikega odra LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191053"},{"title":"KATALOG LUM, angleški / ENG","date":"No date","price":"12,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127299"},{"title":"KATALOG LUM, francoski / FR","date":"No date","price":"12,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127300"},{"title":"KATALOG LUM, italijanski / IT","date":"No date","price":"12,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127301"},{"title":"KATALOG LUM, ruski / RU","date":"No date","price":"12,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127302"},{"title":"KATALOG LUM, slovenski / SLO","date":"No date","price":"12,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127298"},{"title":"Lutka št. 58/2016","date":"No date","price":"10,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127176"},{"title":"Lutka št. 60/2019","date":"No date","price":"8,50 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127177"},{"title":"Lutka št. 61/2022","date":"No date","price":"8,50 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1162991"},{"title":"ODRAŠČAJOČA PUBLIKA","date":"No date","price":"8,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127174"},{"title":"VIHAR V GLAVI","date":"No date","price":"25,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127175"},{"title":"No title","date":"No date","price":"undefined EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addBC/1133942"},{"title":"SAMSON IN ROBERTO: FJORDSKI RAZGLED, izven","date":"TOR., 19. NOV. 2024, OB 17:00","price":"5,00 EUR","venue":"Šentjakobski oder LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191104"},{"title":"SAMSON IN ROBERTO: FJORDSKI RAZGLED, izven","date":"ČET., 21. NOV. 2024, OB 17:00","price":"5,00 EUR","venue":"Šentjakobski oder LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191105"},{"title":"OBISK, izven","date":"SOB., 23. NOV. 2024, OB 17:00","price":"5,00 EUR","venue":"Oder pod zvezdami LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191106"},{"title":"MACBETH, izven","date":"SOB., 23. NOV. 2024, OB 19:30","price":"5,00 EUR","venue":"Tunel LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191116"},{"title":"MACBETH, Abonma 15+ in izven","date":"PON., 25. NOV. 2024, OB 18:00","price":"5,00 EUR","venue":"Tunel LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191117"},{"title":"OBISK, izven","date":"TOR., 26. NOV. 2024, OB 17:00","price":"5,00 EUR","venue":"Oder pod zvezdami LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191113"},{"title":"MACBETH, Abonma 15+ in izven","date":"TOR., 26. NOV. 2024, OB 18:00","price":"5,00 EUR","venue":"Tunel LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191118"},{"title":"MACBETH, Abonma 15+ in izven","date":"SRE., 27. NOV. 2024, OB 18:00","price":"5,00 EUR","venue":"Tunel LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191119"},{"title":"KATALOG LUM, angleški / ENG","date":"No date","price":"12,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127299"},{"title":"KATALOG LUM, francoski / FR","date":"No date","price":"12,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127300"},{"title":"KATALOG LUM, italijanski / IT","date":"No date","price":"12,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127301"},{"title":"KATALOG LUM, ruski / RU","date":"No date","price":"12,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127302"},{"title":"KATALOG LUM, slovenski / SLO","date":"No date","price":"12,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127298"},{"title":"Lutka št. 58/2016","date":"No date","price":"10,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127176"},{"title":"Lutka št. 60/2019","date":"No date","price":"8,50 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127177"},{"title":"Lutka št. 61/2022","date":"No date","price":"8,50 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1162991"},{"title":"ODRAŠČAJOČA PUBLIKA","date":"No date","price":"8,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127174"},{"title":"VIHAR V GLAVI","date":"No date","price":"25,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127175"},{"title":"No title","date":"No date","price":"undefined EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addBC/1133942"},{"title":"TRANSPORT: ODHOD, izven","date":"PET., 29. NOV. 2024, OB 19:30","price":"5,00 EUR","venue":"Oder pod zvezdami LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191143"},{"title":"PISMA Z ROBA GOZDA, izven","date":"SOB., 30. NOV. 2024, OB 11:00","price":"5,00 EUR","venue":"Veliki oder LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191114"},{"title":"PISMA Z ROBA GOZDA, izven","date":"SOB., 30. NOV. 2024, OB 17:00","price":"5,00 EUR","venue":"Veliki oder LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191115"},{"title":"TRANSPORT: ODHOD, izven","date":"SOB., 30. NOV. 2024, OB 19:30","price":"5,00 EUR","venue":"Oder pod zvezdami LGL","purchaseLink":"https://lgl.mojekarte.si/si/basket/add/1191144"},{"title":"KATALOG LUM, angleški / ENG","date":"No date","price":"12,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127299"},{"title":"KATALOG LUM, francoski / FR","date":"No date","price":"12,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127300"},{"title":"KATALOG LUM, italijanski / IT","date":"No date","price":"12,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127301"},{"title":"KATALOG LUM, ruski / RU","date":"No date","price":"12,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127302"},{"title":"KATALOG LUM, slovenski / SLO","date":"No date","price":"12,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127298"},{"title":"Lutka št. 58/2016","date":"No date","price":"10,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127176"},{"title":"Lutka št. 60/2019","date":"No date","price":"8,50 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127177"},{"title":"Lutka št. 61/2022","date":"No date","price":"8,50 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1162991"},{"title":"ODRAŠČAJOČA PUBLIKA","date":"No date","price":"8,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127174"},{"title":"VIHAR V GLAVI","date":"No date","price":"25,00 EUR","venue":"Venue not specified","purchaseLink":"https://lgl.mojekarte.si/si/basket/addSvc/1127175"}]}
+{
+  "lastRunDate": "Sun Nov 03 2024",
+  "lastRunEvents": [
+    {
+      "title": "No title",
+      "date": "No date",
+      "price": "undefined EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addBC/1133942"
+    },
+    {
+      "title": "TRANSPORT: ODHOD, premiera",
+      "date": "PET., 8. NOV. 2024, OB 19:30",
+      "price": "5,00 EUR",
+      "venue": "Oder pod zvezdami LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1190983"
+    },
+    {
+      "title": "TRANSPORT: ODHOD, izven",
+      "date": "NED., 10. NOV. 2024, OB 19:30",
+      "price": "5,00 EUR",
+      "venue": "Oder pod zvezdami LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191140"
+    },
+    {
+      "title": "TRANSPORT: ODHOD, izven",
+      "date": "PON., 11. NOV. 2024, OB 19:30",
+      "price": "5,00 EUR",
+      "venue": "Oder pod zvezdami LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191141"
+    },
+    {
+      "title": "TRANSPORT: ODHOD, izven",
+      "date": "TOR., 12. NOV. 2024, OB 19:30",
+      "price": "5,00 EUR",
+      "venue": "Oder pod zvezdami LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191142"
+    },
+    {
+      "title": "GLUHA REPUBLIKA, gostuje LGMB, izven",
+      "date": "PET., 15. NOV. 2024, OB 19:30",
+      "price": "5,00 EUR",
+      "venue": "Šentjakobski oder LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1190985"
+    },
+    {
+      "title": "Z ODRA V MUZEJ, izven",
+      "date": "SOB., 16. NOV. 2024, OB 11:00",
+      "price": "10,00 EUR",
+      "venue": "Preddverje Velikega odra LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191053"
+    },
+    {
+      "title": "KATALOG LUM, angleški / ENG",
+      "date": "No date",
+      "price": "12,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127299"
+    },
+    {
+      "title": "KATALOG LUM, francoski / FR",
+      "date": "No date",
+      "price": "12,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127300"
+    },
+    {
+      "title": "KATALOG LUM, italijanski / IT",
+      "date": "No date",
+      "price": "12,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127301"
+    },
+    {
+      "title": "KATALOG LUM, ruski / RU",
+      "date": "No date",
+      "price": "12,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127302"
+    },
+    {
+      "title": "KATALOG LUM, slovenski / SLO",
+      "date": "No date",
+      "price": "12,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127298"
+    },
+    {
+      "title": "Lutka št. 58/2016",
+      "date": "No date",
+      "price": "10,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127176"
+    },
+    {
+      "title": "Lutka št. 60/2019",
+      "date": "No date",
+      "price": "8,50 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127177"
+    },
+    {
+      "title": "Lutka št. 61/2022",
+      "date": "No date",
+      "price": "8,50 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1162991"
+    },
+    {
+      "title": "ODRAŠČAJOČA PUBLIKA",
+      "date": "No date",
+      "price": "8,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127174"
+    },
+    {
+      "title": "VIHAR V GLAVI",
+      "date": "No date",
+      "price": "25,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127175"
+    },
+    {
+      "title": "No title",
+      "date": "No date",
+      "price": "undefined EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addBC/1133942"
+    },
+    {
+      "title": "SAMSON IN ROBERTO: FJORDSKI RAZGLED, izven",
+      "date": "TOR., 19. NOV. 2024, OB 17:00",
+      "price": "5,00 EUR",
+      "venue": "Šentjakobski oder LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191104"
+    },
+    {
+      "title": "SAMSON IN ROBERTO: FJORDSKI RAZGLED, izven",
+      "date": "ČET., 21. NOV. 2024, OB 17:00",
+      "price": "5,00 EUR",
+      "venue": "Šentjakobski oder LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191105"
+    },
+    {
+      "title": "OBISK, izven",
+      "date": "SOB., 23. NOV. 2024, OB 17:00",
+      "price": "5,00 EUR",
+      "venue": "Oder pod zvezdami LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191106"
+    },
+    {
+      "title": "MACBETH, izven",
+      "date": "SOB., 23. NOV. 2024, OB 19:30",
+      "price": "5,00 EUR",
+      "venue": "Tunel LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191116"
+    },
+    {
+      "title": "MACBETH, Abonma 15+ in izven",
+      "date": "PON., 25. NOV. 2024, OB 18:00",
+      "price": "5,00 EUR",
+      "venue": "Tunel LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191117"
+    },
+    {
+      "title": "OBISK, izven",
+      "date": "TOR., 26. NOV. 2024, OB 17:00",
+      "price": "5,00 EUR",
+      "venue": "Oder pod zvezdami LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191113"
+    },
+    {
+      "title": "MACBETH, Abonma 15+ in izven",
+      "date": "TOR., 26. NOV. 2024, OB 18:00",
+      "price": "5,00 EUR",
+      "venue": "Tunel LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191118"
+    },
+    {
+      "title": "MACBETH, Abonma 15+ in izven",
+      "date": "SRE., 27. NOV. 2024, OB 18:00",
+      "price": "5,00 EUR",
+      "venue": "Tunel LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191119"
+    },
+    {
+      "title": "KATALOG LUM, angleški / ENG",
+      "date": "No date",
+      "price": "12,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127299"
+    },
+    {
+      "title": "KATALOG LUM, francoski / FR",
+      "date": "No date",
+      "price": "12,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127300"
+    },
+    {
+      "title": "KATALOG LUM, italijanski / IT",
+      "date": "No date",
+      "price": "12,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127301"
+    },
+    {
+      "title": "KATALOG LUM, ruski / RU",
+      "date": "No date",
+      "price": "12,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127302"
+    },
+    {
+      "title": "KATALOG LUM, slovenski / SLO",
+      "date": "No date",
+      "price": "12,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127298"
+    },
+    {
+      "title": "Lutka št. 58/2016",
+      "date": "No date",
+      "price": "10,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127176"
+    },
+    {
+      "title": "Lutka št. 60/2019",
+      "date": "No date",
+      "price": "8,50 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127177"
+    },
+    {
+      "title": "Lutka št. 61/2022",
+      "date": "No date",
+      "price": "8,50 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1162991"
+    },
+    {
+      "title": "ODRAŠČAJOČA PUBLIKA",
+      "date": "No date",
+      "price": "8,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127174"
+    },
+    {
+      "title": "VIHAR V GLAVI",
+      "date": "No date",
+      "price": "25,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127175"
+    },
+    {
+      "title": "No title",
+      "date": "No date",
+      "price": "undefined EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addBC/1133942"
+    },
+    {
+      "title": "TRANSPORT: ODHOD, izven",
+      "date": "PET., 29. NOV. 2024, OB 19:30",
+      "price": "5,00 EUR",
+      "venue": "Oder pod zvezdami LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191143"
+    },
+    {
+      "title": "PISMA Z ROBA GOZDA, izven",
+      "date": "SOB., 30. NOV. 2024, OB 11:00",
+      "price": "5,00 EUR",
+      "venue": "Veliki oder LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191114"
+    },
+    {
+      "title": "PISMA Z ROBA GOZDA, izven",
+      "date": "SOB., 30. NOV. 2024, OB 17:00",
+      "price": "5,00 EUR",
+      "venue": "Veliki oder LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191115"
+    },
+    {
+      "title": "TRANSPORT: ODHOD, izven",
+      "date": "SOB., 30. NOV. 2024, OB 19:30",
+      "price": "5,00 EUR",
+      "venue": "Oder pod zvezdami LGL",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191144"
+    },
+    {
+      "title": "KATALOG LUM, angleški / ENG",
+      "date": "No date",
+      "price": "12,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127299"
+    },
+    {
+      "title": "KATALOG LUM, francoski / FR",
+      "date": "No date",
+      "price": "12,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127300"
+    },
+    {
+      "title": "KATALOG LUM, italijanski / IT",
+      "date": "No date",
+      "price": "12,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127301"
+    },
+    {
+      "title": "KATALOG LUM, ruski / RU",
+      "date": "No date",
+      "price": "12,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127302"
+    },
+    {
+      "title": "KATALOG LUM, slovenski / SLO",
+      "date": "No date",
+      "price": "12,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127298"
+    },
+    {
+      "title": "Lutka št. 58/2016",
+      "date": "No date",
+      "price": "10,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127176"
+    },
+    {
+      "title": "Lutka št. 60/2019",
+      "date": "No date",
+      "price": "8,50 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127177"
+    },
+    {
+      "title": "Lutka št. 61/2022",
+      "date": "No date",
+      "price": "8,50 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1162991"
+    },
+    {
+      "title": "ODRAŠČAJOČA PUBLIKA",
+      "date": "No date",
+      "price": "8,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127174"
+    },
+    {
+      "title": "VIHAR V GLAVI",
+      "date": "No date",
+      "price": "25,00 EUR",
+      "venue": "Venue not specified",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127175"
+    }
+  ],
+  "knownEvents": {
+    "saprami-ka--izven--et---14--nov--2024--ob-17-00": {
+      "title": "SAPRAMIŠKA, izven",
+      "date": "ČET., 14. NOV. 2024, OB 17:00",
+      "eventDate": "14. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "saprami-ka--izven--et---14--nov--2024--ob-17-00",
+      "rawDescription": "ČET., 14. NOV. 2024, OB 17:00\n\nSAPRAMIŠKA, izven\n\nSAPRAMIŠKA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "saprami-ka--izven--et---14--nov--2024--ob-18-30": {
+      "title": "SAPRAMIŠKA, izven",
+      "date": "ČET., 14. NOV. 2024, OB 18:30",
+      "eventDate": "14. NOV. 2024",
+      "venue": "Šentjakobski oder LGL",
+      "price": "5,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1192718",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "saprami-ka--izven--et---14--nov--2024--ob-18-30",
+      "rawDescription": "ČET., 14. NOV. 2024, OB 18:30\n\nSAPRAMIŠKA, izven\n\nObvestilo (Ob 80-letnici Ignacija Šunjića)\n\nSAPRAMIŠKA\nZa otroke, Kultura, lutkovna predstava\n\nŠentjakobski oder LGL\n Nakup\n\t5,00 EUR",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "Obvestilo (Ob 80-letnici Ignacija Šunjića)",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "gluha-republika--gostuje-lgmb--izven-pet---15--nov--2024--ob-19-30": {
+      "title": "GLUHA REPUBLIKA, gostuje LGMB, izven",
+      "date": "PET., 15. NOV. 2024, OB 19:30",
+      "eventDate": "15. NOV. 2024",
+      "venue": "Šentjakobski oder LGL",
+      "price": "5,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1190985",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "gluha-republika--gostuje-lgmb--izven-pet---15--nov--2024--ob-19-30",
+      "rawDescription": "PET., 15. NOV. 2024, OB 19:30\n\nGLUHA REPUBLIKA, gostuje LGMB, izven\n\nObvestilo (gostuje Lutkovno gledališče Maribor)\n\nGLUHA REPUBLIKA, gostuje LGMB\nZa mladino, Kultura, lutkovna predstava\n\nŠentjakobski oder LGL\n Nakup\n\t5,00 EUR",
+      "additionalInfo": {
+        "genres": [
+          "Za mladino",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "Obvestilo (gostuje Lutkovno gledališče Maribor)",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "z-odra-v-muzej--izven-sob---16--nov--2024--ob-11-00": {
+      "title": "Z ODRA V MUZEJ, izven",
+      "date": "SOB., 16. NOV. 2024, OB 11:00",
+      "eventDate": "16. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "other",
+      "importance": "normal",
+      "eventId": "z-odra-v-muzej--izven-sob---16--nov--2024--ob-11-00",
+      "rawDescription": "SOB., 16. NOV. 2024, OB 11:00\n\nZ ODRA V MUZEJ, izven\n\nrezervacije na: blagajna@lgl.si in 080 2004\n\nZ ODRA V MUZEJ\nKultura\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Kultura"
+        ],
+        "notes": "rezervacije na: blagajna@lgl.si in 080 2004",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "zaj-kova-hi-ica--izven-sob---16--nov--2024--ob-11-00": {
+      "title": "ZAJČKOVA HIŠICA, izven",
+      "date": "SOB., 16. NOV. 2024, OB 11:00",
+      "eventDate": "16. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "zaj-kova-hi-ica--izven-sob---16--nov--2024--ob-11-00",
+      "rawDescription": "SOB., 16. NOV. 2024, OB 11:00\n\nZAJČKOVA HIŠICA, izven\n\nZAJČKOVA HIŠICA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "zaj-kova-hi-ica--izven-sob---16--nov--2024--ob-17-00": {
+      "title": "ZAJČKOVA HIŠICA, izven",
+      "date": "SOB., 16. NOV. 2024, OB 17:00",
+      "eventDate": "16. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "zaj-kova-hi-ica--izven-sob---16--nov--2024--ob-17-00",
+      "rawDescription": "SOB., 16. NOV. 2024, OB 17:00\n\nZAJČKOVA HIŠICA, izven\n\nZAJČKOVA HIŠICA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "samson-in-roberto--fjordski-razgled--izven-tor---19--nov--2024--ob-17-00": {
+      "title": "SAMSON IN ROBERTO: FJORDSKI RAZGLED, izven",
+      "date": "TOR., 19. NOV. 2024, OB 17:00",
+      "eventDate": "19. NOV. 2024",
+      "venue": "Šentjakobski oder LGL",
+      "price": "5,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191104",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "samson-in-roberto--fjordski-razgled--izven-tor---19--nov--2024--ob-17-00",
+      "rawDescription": "TOR., 19. NOV. 2024, OB 17:00\n\nSAMSON IN ROBERTO: FJORDSKI RAZGLED, izven\n\nSAMSON IN ROBERTO: FJORDSKI RAZGLED\nZa otroke, Za mladino, Kultura, lutkovna predstava\n\nŠentjakobski oder LGL\n Nakup\n\t5,00 EUR",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Za mladino",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "medvedek-pu--izven-sre---20--nov--2024--ob-17-00": {
+      "title": "MEDVEDEK PU, izven",
+      "date": "SRE., 20. NOV. 2024, OB 17:00",
+      "eventDate": "20. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "medvedek-pu--izven-sre---20--nov--2024--ob-17-00",
+      "rawDescription": "SRE., 20. NOV. 2024, OB 17:00\n\nMEDVEDEK PU, izven\n\nsedežni red ne velja\n\nMEDVEDEK PU\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "sedežni red ne velja",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "samson-in-roberto--fjordski-razgled--izven--et---21--nov--2024--ob-17-00": {
+      "title": "SAMSON IN ROBERTO: FJORDSKI RAZGLED, izven",
+      "date": "ČET., 21. NOV. 2024, OB 17:00",
+      "eventDate": "21. NOV. 2024",
+      "venue": "Šentjakobski oder LGL",
+      "price": "5,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191105",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "samson-in-roberto--fjordski-razgled--izven--et---21--nov--2024--ob-17-00",
+      "rawDescription": "ČET., 21. NOV. 2024, OB 17:00\n\nSAMSON IN ROBERTO: FJORDSKI RAZGLED, izven\n\nSAMSON IN ROBERTO: FJORDSKI RAZGLED\nZa otroke, Za mladino, Kultura, lutkovna predstava\n\nŠentjakobski oder LGL\n Nakup\n\t5,00 EUR",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Za mladino",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "obisk--izven-sob---23--nov--2024--ob-11-00": {
+      "title": "OBISK, izven",
+      "date": "SOB., 23. NOV. 2024, OB 11:00",
+      "eventDate": "23. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "obisk--izven-sob---23--nov--2024--ob-11-00",
+      "rawDescription": "SOB., 23. NOV. 2024, OB 11:00\n\nOBISK, izven\n\nsedežni red ne velja\n\nOBISK\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "sedežni red ne velja",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "obisk--izven-sob---23--nov--2024--ob-17-00": {
+      "title": "OBISK, izven",
+      "date": "SOB., 23. NOV. 2024, OB 17:00",
+      "eventDate": "23. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "obisk--izven-sob---23--nov--2024--ob-17-00",
+      "rawDescription": "SOB., 23. NOV. 2024, OB 17:00\n\nOBISK, izven\n\nsedežni red ne velja\n\nOBISK\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "sedežni red ne velja",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "macbeth--izven-sob---23--nov--2024--ob-19-30": {
+      "title": "MACBETH, izven",
+      "date": "SOB., 23. NOV. 2024, OB 19:30",
+      "eventDate": "23. NOV. 2024",
+      "venue": "Tunel LGL",
+      "price": "5,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191116",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "other",
+      "importance": "normal",
+      "eventId": "macbeth--izven-sob---23--nov--2024--ob-19-30",
+      "rawDescription": "SOB., 23. NOV. 2024, OB 19:30\n\nMACBETH, izven\n\nObvestilo (sedežni red ne velja, priporočamo topla oblačila)\n\nMACBETH\nKultura, za odrasle\n\nTunel LGL\n Nakup\n\t5,00 EUR",
+      "additionalInfo": {
+        "genres": [
+          "Kultura",
+          "za odrasle"
+        ],
+        "notes": "Obvestilo (sedežni red ne velja, priporočamo topla oblačila)",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "mi-ek-julijan--izven-ned---24--nov--2024--ob-11-00": {
+      "title": "MIŠEK JULIJAN, izven",
+      "date": "NED., 24. NOV. 2024, OB 11:00",
+      "eventDate": "24. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "mi-ek-julijan--izven-ned---24--nov--2024--ob-11-00",
+      "rawDescription": "NED., 24. NOV. 2024, OB 11:00\n\nMIŠEK JULIJAN, izven\n\nMIŠEK JULIJAN\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "mi-ek-julijan--izven-ned---24--nov--2024--ob-17-00": {
+      "title": "MIŠEK JULIJAN, izven",
+      "date": "NED., 24. NOV. 2024, OB 17:00",
+      "eventDate": "24. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "mi-ek-julijan--izven-ned---24--nov--2024--ob-17-00",
+      "rawDescription": "NED., 24. NOV. 2024, OB 17:00\n\nMIŠEK JULIJAN, izven\n\nMIŠEK JULIJAN\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "macbeth--abonma-15--in-izven-pon---25--nov--2024--ob-18-00": {
+      "title": "MACBETH, Abonma 15+ in izven",
+      "date": "PON., 25. NOV. 2024, OB 18:00",
+      "eventDate": "25. NOV. 2024",
+      "venue": "Tunel LGL",
+      "price": "5,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191117",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "other",
+      "importance": "normal",
+      "eventId": "macbeth--abonma-15--in-izven-pon---25--nov--2024--ob-18-00",
+      "rawDescription": "PON., 25. NOV. 2024, OB 18:00\n\nMACBETH, Abonma 15+ in izven\n\nObvestilo (Abonma 15+, sedežni red ne velja, priporočamo topla oblačila)\n\nMACBETH\nKultura, za odrasle\n\nTunel LGL\n Nakup\n\t5,00 EUR",
+      "additionalInfo": {
+        "genres": [
+          "Kultura",
+          "za odrasle"
+        ],
+        "notes": "Obvestilo (Abonma 15+, sedežni red ne velja, priporočamo topla oblačila)",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "katalog-lum--angle-ki---eng-no-date": {
+      "title": "KATALOG LUM, angleški / ENG",
+      "date": "No date",
+      "eventDate": null,
+      "venue": "Venue not specified",
+      "price": "12,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127299",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "other",
+      "importance": "normal",
+      "eventId": "katalog-lum--angle-ki---eng-no-date",
+      "rawDescription": "KATALOG LUM, angleški / ENG\n Nakup\n\t12,00 EUR",
+      "additionalInfo": {
+        "genres": [],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "katalog-lum--francoski---fr-no-date": {
+      "title": "KATALOG LUM, francoski / FR",
+      "date": "No date",
+      "eventDate": null,
+      "venue": "Venue not specified",
+      "price": "12,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127300",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "other",
+      "importance": "normal",
+      "eventId": "katalog-lum--francoski---fr-no-date",
+      "rawDescription": "KATALOG LUM, francoski / FR\n Nakup\n\t12,00 EUR",
+      "additionalInfo": {
+        "genres": [],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "katalog-lum--italijanski---it-no-date": {
+      "title": "KATALOG LUM, italijanski / IT",
+      "date": "No date",
+      "eventDate": null,
+      "venue": "Venue not specified",
+      "price": "12,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127301",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "other",
+      "importance": "normal",
+      "eventId": "katalog-lum--italijanski---it-no-date",
+      "rawDescription": "KATALOG LUM, italijanski / IT\n Nakup\n\t12,00 EUR",
+      "additionalInfo": {
+        "genres": [],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "katalog-lum--ruski---ru-no-date": {
+      "title": "KATALOG LUM, ruski / RU",
+      "date": "No date",
+      "eventDate": null,
+      "venue": "Venue not specified",
+      "price": "12,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127302",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "other",
+      "importance": "normal",
+      "eventId": "katalog-lum--ruski---ru-no-date",
+      "rawDescription": "KATALOG LUM, ruski / RU\n Nakup\n\t12,00 EUR",
+      "additionalInfo": {
+        "genres": [],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "katalog-lum--slovenski---slo-no-date": {
+      "title": "KATALOG LUM, slovenski / SLO",
+      "date": "No date",
+      "eventDate": null,
+      "venue": "Venue not specified",
+      "price": "12,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127298",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "other",
+      "importance": "normal",
+      "eventId": "katalog-lum--slovenski---slo-no-date",
+      "rawDescription": "KATALOG LUM, slovenski / SLO\n Nakup\n\t12,00 EUR",
+      "additionalInfo": {
+        "genres": [],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "lutka--t--58-2016-no-date": {
+      "title": "Lutka št. 58/2016",
+      "date": "No date",
+      "eventDate": null,
+      "venue": "Venue not specified",
+      "price": "10,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127176",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "other",
+      "importance": "normal",
+      "eventId": "lutka--t--58-2016-no-date",
+      "rawDescription": "Lutka št. 58/2016\n Nakup\n\t10,00 EUR",
+      "additionalInfo": {
+        "genres": [],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "lutka--t--60-2019-no-date": {
+      "title": "Lutka št. 60/2019",
+      "date": "No date",
+      "eventDate": null,
+      "venue": "Venue not specified",
+      "price": "8,50 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127177",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "other",
+      "importance": "normal",
+      "eventId": "lutka--t--60-2019-no-date",
+      "rawDescription": "Lutka št. 60/2019\n Nakup\n\t8,50 EUR",
+      "additionalInfo": {
+        "genres": [],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "lutka--t--61-2022-no-date": {
+      "title": "Lutka št. 61/2022",
+      "date": "No date",
+      "eventDate": null,
+      "venue": "Venue not specified",
+      "price": "8,50 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1162991",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "other",
+      "importance": "normal",
+      "eventId": "lutka--t--61-2022-no-date",
+      "rawDescription": "Lutka št. 61/2022\n Nakup\n\t8,50 EUR",
+      "additionalInfo": {
+        "genres": [],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "odra--ajo-a-publika-no-date": {
+      "title": "ODRAŠČAJOČA PUBLIKA",
+      "date": "No date",
+      "eventDate": null,
+      "venue": "Venue not specified",
+      "price": "8,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127174",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "other",
+      "importance": "normal",
+      "eventId": "odra--ajo-a-publika-no-date",
+      "rawDescription": "ODRAŠČAJOČA PUBLIKA\n Nakup\n\t8,00 EUR",
+      "additionalInfo": {
+        "genres": [],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "vihar-v-glavi-no-date": {
+      "title": "VIHAR V GLAVI",
+      "date": "No date",
+      "eventDate": null,
+      "venue": "Venue not specified",
+      "price": "25,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/addSvc/1127175",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "other",
+      "importance": "normal",
+      "eventId": "vihar-v-glavi-no-date",
+      "rawDescription": "VIHAR V GLAVI\n Nakup\n\t25,00 EUR",
+      "additionalInfo": {
+        "genres": [],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "obisk--izven-tor---26--nov--2024--ob-17-00": {
+      "title": "OBISK, izven",
+      "date": "TOR., 26. NOV. 2024, OB 17:00",
+      "eventDate": "26. NOV. 2024",
+      "venue": "Oder pod zvezdami LGL",
+      "price": "5,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191113",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "obisk--izven-tor---26--nov--2024--ob-17-00",
+      "rawDescription": "TOR., 26. NOV. 2024, OB 17:00\n\nOBISK, izven\n\nObvestilo (sedežni red ne velja)\n\nOBISK\nZa otroke, Kultura, lutkovna predstava\n\nOder pod zvezdami LGL\n Nakup\n\t5,00 EUR",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "Obvestilo (sedežni red ne velja)",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "mi-ek-julijan--izven-tor---26--nov--2024--ob-17-30": {
+      "title": "MIŠEK JULIJAN, izven",
+      "date": "TOR., 26. NOV. 2024, OB 17:30",
+      "eventDate": "26. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "mi-ek-julijan--izven-tor---26--nov--2024--ob-17-30",
+      "rawDescription": "TOR., 26. NOV. 2024, OB 17:30\n\nMIŠEK JULIJAN, izven\n\nMIŠEK JULIJAN\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "macbeth--abonma-15--in-izven-tor---26--nov--2024--ob-18-00": {
+      "title": "MACBETH, Abonma 15+ in izven",
+      "date": "TOR., 26. NOV. 2024, OB 18:00",
+      "eventDate": "26. NOV. 2024",
+      "venue": "Tunel LGL",
+      "price": "5,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191118",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "other",
+      "importance": "normal",
+      "eventId": "macbeth--abonma-15--in-izven-tor---26--nov--2024--ob-18-00",
+      "rawDescription": "TOR., 26. NOV. 2024, OB 18:00\n\nMACBETH, Abonma 15+ in izven\n\nObvestilo (Abonma 15+, sedežni red ne velja, priporočamo topla oblačila)\n\nMACBETH\nKultura, za odrasle\n\nTunel LGL\n Nakup\n\t5,00 EUR",
+      "additionalInfo": {
+        "genres": [
+          "Kultura",
+          "za odrasle"
+        ],
+        "notes": "Obvestilo (Abonma 15+, sedežni red ne velja, priporočamo topla oblačila)",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "mi-ek-julijan--izven-sre---27--nov--2024--ob-17-00": {
+      "title": "MIŠEK JULIJAN, izven",
+      "date": "SRE., 27. NOV. 2024, OB 17:00",
+      "eventDate": "27. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "mi-ek-julijan--izven-sre---27--nov--2024--ob-17-00",
+      "rawDescription": "SRE., 27. NOV. 2024, OB 17:00\n\nMIŠEK JULIJAN, izven\n\nMIŠEK JULIJAN\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "macbeth--abonma-15--in-izven-sre---27--nov--2024--ob-18-00": {
+      "title": "MACBETH, Abonma 15+ in izven",
+      "date": "SRE., 27. NOV. 2024, OB 18:00",
+      "eventDate": "27. NOV. 2024",
+      "venue": "Tunel LGL",
+      "price": "5,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191119",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "other",
+      "importance": "normal",
+      "eventId": "macbeth--abonma-15--in-izven-sre---27--nov--2024--ob-18-00",
+      "rawDescription": "SRE., 27. NOV. 2024, OB 18:00\n\nMACBETH, Abonma 15+ in izven\n\nObvestilo (Abonma 15+, sedežni red ne velja, priporočamo topla oblačila)\n\nMACBETH\nKultura, za odrasle\n\nTunel LGL\n Nakup\n\t5,00 EUR",
+      "additionalInfo": {
+        "genres": [
+          "Kultura",
+          "za odrasle"
+        ],
+        "notes": "Obvestilo (Abonma 15+, sedežni red ne velja, priporočamo topla oblačila)",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "mi-ek-julijan--izven--et---28--nov--2024--ob-17-00": {
+      "title": "MIŠEK JULIJAN, izven",
+      "date": "ČET., 28. NOV. 2024, OB 17:00",
+      "eventDate": "28. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "mi-ek-julijan--izven--et---28--nov--2024--ob-17-00",
+      "rawDescription": "ČET., 28. NOV. 2024, OB 17:00\n\nMIŠEK JULIJAN, izven\n\nMIŠEK JULIJAN\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "pisma-z-roba-gozda--premiera-in-izven--et---28--nov--2024--ob-18-00": {
+      "title": "PISMA Z ROBA GOZDA, premiera in izven",
+      "date": "ČET., 28. NOV. 2024, OB 18:00",
+      "eventDate": "28. NOV. 2024",
+      "venue": "Veliki oder LGL",
+      "price": "Price not available",
+      "status": "announced",
+      "availability": "upcoming",
+      "purchaseLink": null,
+      "isSoldOut": false,
+      "isPremiere": true,
+      "premiereDate": "28. NOV. 2024",
+      "showType": "drama",
+      "importance": "high",
+      "eventId": "pisma-z-roba-gozda--premiera-in-izven--et---28--nov--2024--ob-18-00",
+      "rawDescription": "ČET., 28. NOV. 2024, OB 18:00\n\nPISMA Z ROBA GOZDA, premiera in izven\n\nNapovedujemo (Premiera za vabljene)\n\nPISMA Z ROBA GOZDA\nZa otroke, Kultura, dramska predstava\n\nVeliki oder LGL",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "dramska predstava"
+        ],
+        "notes": "Napovedujemo (Premiera za vabljene)",
+        "isVabljeni": true,
+        "hasNote": true
+      }
+    },
+    "transport--odhod--izven-pet---29--nov--2024--ob-19-30": {
+      "title": "TRANSPORT: ODHOD, izven",
+      "date": "PET., 29. NOV. 2024, OB 19:30",
+      "eventDate": "29. NOV. 2024",
+      "venue": "Oder pod zvezdami LGL",
+      "price": "5,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191143",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "transport--odhod--izven-pet---29--nov--2024--ob-19-30",
+      "rawDescription": "PET., 29. NOV. 2024, OB 19:30\n\nTRANSPORT: ODHOD, izven\n\nObvestilo (sedežni red ne velja)\n\nTRANSPORT: ODHOD\nZa mladino, Kultura, lutkovna predstava\n\nOder pod zvezdami LGL\n Nakup\n\t5,00 EUR",
+      "additionalInfo": {
+        "genres": [
+          "Za mladino",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "Obvestilo (sedežni red ne velja)",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "kdo-je-napravil-vidku-sraj-ico--izven-sob---30--nov--2024--ob-10-30": {
+      "title": "KDO JE NAPRAVIL VIDKU SRAJČICO, izven",
+      "date": "SOB., 30. NOV. 2024, OB 10:30",
+      "eventDate": "30. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "kdo-je-napravil-vidku-sraj-ico--izven-sob---30--nov--2024--ob-10-30",
+      "rawDescription": "SOB., 30. NOV. 2024, OB 10:30\n\nKDO JE NAPRAVIL VIDKU SRAJČICO, izven\n\nKDO JE NAPRAVIL VIDKU SRAJČICO\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "pisma-z-roba-gozda--izven-sob---30--nov--2024--ob-11-00": {
+      "title": "PISMA Z ROBA GOZDA, izven",
+      "date": "SOB., 30. NOV. 2024, OB 11:00",
+      "eventDate": "30. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "drama",
+      "importance": "normal",
+      "eventId": "pisma-z-roba-gozda--izven-sob---30--nov--2024--ob-11-00",
+      "rawDescription": "SOB., 30. NOV. 2024, OB 11:00\n\nPISMA Z ROBA GOZDA, izven\n\nPISMA Z ROBA GOZDA\nZa otroke, Kultura, dramska predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "dramska predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "kdo-je-napravil-vidku-sraj-ico--izven-sob---30--nov--2024--ob-17-00": {
+      "title": "KDO JE NAPRAVIL VIDKU SRAJČICO, izven",
+      "date": "SOB., 30. NOV. 2024, OB 17:00",
+      "eventDate": "30. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "kdo-je-napravil-vidku-sraj-ico--izven-sob---30--nov--2024--ob-17-00",
+      "rawDescription": "SOB., 30. NOV. 2024, OB 17:00\n\nKDO JE NAPRAVIL VIDKU SRAJČICO, izven\n\nKDO JE NAPRAVIL VIDKU SRAJČICO\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "pisma-z-roba-gozda--izven-sob---30--nov--2024--ob-17-00": {
+      "title": "PISMA Z ROBA GOZDA, izven",
+      "date": "SOB., 30. NOV. 2024, OB 17:00",
+      "eventDate": "30. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "drama",
+      "importance": "normal",
+      "eventId": "pisma-z-roba-gozda--izven-sob---30--nov--2024--ob-17-00",
+      "rawDescription": "SOB., 30. NOV. 2024, OB 17:00\n\nPISMA Z ROBA GOZDA, izven\n\nPISMA Z ROBA GOZDA\nZa otroke, Kultura, dramska predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "dramska predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "transport--odhod--izven-sob---30--nov--2024--ob-19-30": {
+      "title": "TRANSPORT: ODHOD, izven",
+      "date": "SOB., 30. NOV. 2024, OB 19:30",
+      "eventDate": "30. NOV. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "transport--odhod--izven-sob---30--nov--2024--ob-19-30",
+      "rawDescription": "SOB., 30. NOV. 2024, OB 19:30\n\nTRANSPORT: ODHOD, izven\n\nsedežni red ne velja\n\nTRANSPORT: ODHOD\nZa mladino, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za mladino",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "sedežni red ne velja",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    }
+  },
+  "lastCheck": "2024-11-13T20:55:57.409Z",
+  "upcomingPremieres": [
+    {
+      "title": "PISMA Z ROBA GOZDA, premiera in izven",
+      "date": "2024-11-27T23:00:00.000Z",
+      "venue": "Veliki oder LGL",
+      "rawDate": "28. NOV. 2024",
+      "status": "announced",
+      "showType": "drama",
+      "originalEvent": {
+        "title": "PISMA Z ROBA GOZDA, premiera in izven",
+        "date": "ČET., 28. NOV. 2024, OB 18:00",
+        "eventDate": "28. NOV. 2024",
+        "venue": "Veliki oder LGL",
+        "price": "Price not available",
+        "status": "announced",
+        "availability": "upcoming",
+        "purchaseLink": null,
+        "isSoldOut": false,
+        "isPremiere": true,
+        "premiereDate": "28. NOV. 2024",
+        "showType": "drama",
+        "importance": "high",
+        "eventId": "pisma-z-roba-gozda--premiera-in-izven--et---28--nov--2024--ob-18-00",
+        "rawDescription": "ČET., 28. NOV. 2024, OB 18:00\n\nPISMA Z ROBA GOZDA, premiera in izven\n\nNapovedujemo (Premiera za vabljene)\n\nPISMA Z ROBA GOZDA\nZa otroke, Kultura, dramska predstava\n\nVeliki oder LGL",
+        "additionalInfo": {
+          "genres": [
+            "Za otroke",
+            "Kultura",
+            "dramska predstava"
+          ],
+          "notes": "Napovedujemo (Premiera za vabljene)",
+          "isVabljeni": true,
+          "hasNote": true
+        }
+      }
+    }
+  ]
+}

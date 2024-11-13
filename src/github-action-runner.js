@@ -1,70 +1,133 @@
 require('dotenv').config();
-const fs = require('fs');
-const path = require('path');
-const scrapeTickets = require('./scraper');
-const { sendEmail } = require('./email');
+const { scrapeTickets } = require('./scraper');
+const { sendEmail } = require('./emailService');
+const { formatDate, sleep } = require('./utils');
 
-async function runTicketCheck() {
+async function logMessage(message, type = 'INFO') {
+  const timestamp = new Date().toISOString();
+  const logMessage = `[${timestamp}] [${type}] ${message}`;
+  console.log(logMessage);
+}
+
+async function runCheck(retryCount = 3) {
   try {
-    console.log('Starting ticket check...');
+    await logMessage('Starting scheduled ticket check');
 
-    // Debug: Check environment variables
-    console.log('Environment variables check:');
-    console.log('EMAIL_USER exists:', !!process.env.EMAIL_USER);
-    console.log('EMAIL_PASS exists:', !!process.env.EMAIL_PASS);
-    console.log('RECIPIENT_EMAILS exists:', !!process.env.RECIPIENT_EMAILS);
-    console.log(
-      'PUPPETEER_EXECUTABLE_PATH:',
-      process.env.PUPPETEER_EXECUTABLE_PATH
-    );
-
-    // Debug: Check if .env file exists and its contents
-    const envPath = path.join(__dirname, '.env');
-    console.log('.env file exists:', fs.existsSync(envPath));
-    if (fs.existsSync(envPath)) {
-      console.log('.env file contents:');
-      console.log(fs.readFileSync(envPath, 'utf8'));
+    // Run the scraper with retry logic
+    let result;
+    for (let i = 0; i < retryCount; i++) {
+      try {
+        await logMessage('Initiating scrape operation');
+        result = await scrapeTickets();
+        break;
+      } catch (error) {
+        if (i === retryCount - 1) throw error;
+        await logMessage(`Scrape attempt ${i + 1} failed, retrying...`, 'WARN');
+        await sleep(2000 * (i + 1)); // Exponential backoff
+      }
     }
 
-    // Debug: List directory contents
-    console.log('Directory contents:');
-    console.log(fs.readdirSync(__dirname));
+    await logMessage(`Found ${result.events.length} total events`);
+    await logMessage(`Detected ${result.changes.length} changes`);
 
-    console.log('Running scraper...');
-    const events = await scrapeTickets();
-    console.log(
-      `Found ${events.length} events:`,
-      JSON.stringify(events, null, 2)
-    );
+    // Log premieres
+    if (result.upcomingPremieres.length > 0) {
+      await logMessage(
+        `Found ${result.upcomingPremieres.length} upcoming premieres`,
+        'PREMIERE'
+      );
+      result.upcomingPremieres.forEach((premiere) => {
+        logMessage(
+          `- ${premiere.title} on ${formatDate(premiere.date)}`,
+          'PREMIERE'
+        );
+      });
+    }
 
-    if (events && events.length > 0) {
-      console.log('Attempting to send email...');
-      await sendEmail(events);
-      console.log('Email notification sent successfully');
+    // Send email notification
+    if (
+      result.changes.length > 0 ||
+      result.upcomingPremieres.length > 0 ||
+      result.events.some((e) => e.status === 'available')
+    ) {
+      await logMessage('Sending email notification');
+      for (let i = 0; i < retryCount; i++) {
+        try {
+          await sendEmail(result);
+          await logMessage('Email sent successfully');
+          break;
+        } catch (error) {
+          if (i === retryCount - 1) throw error;
+          await logMessage(
+            `Email attempt ${i + 1} failed, retrying...`,
+            'WARN'
+          );
+          await sleep(2000 * (i + 1));
+        }
+      }
     } else {
-      console.log('No events found, skipping email');
+      await logMessage('No updates to report, skipping email');
     }
+
+    await logMessage('Check completed successfully', 'SUCCESS');
+    return {
+      success: true,
+      eventsFound: result.events.length,
+      changes: result.changes.length,
+      premieres: result.upcomingPremieres.length,
+    };
   } catch (error) {
-    console.error('Error during ticket check:', error.message);
-    console.error('Full error:', error);
-    console.error('Stack trace:', error.stack);
+    await logMessage(`Error during check: ${error.message}`, 'ERROR');
+    await logMessage(error.stack, 'ERROR');
 
-    // Create an error log file
-    const errorLogPath = path.join(__dirname, 'error.log');
-    fs.writeFileSync(
-      errorLogPath,
-      `
-      Error Time: ${new Date().toISOString()}
-      Error Message: ${error.message}
-      Stack Trace: ${error.stack}
-      Environment:
-      - NODE_ENV: ${process.env.NODE_ENV}
-      - PUPPETEER_PATH: ${process.env.PUPPETEER_EXECUTABLE_PATH}
-    `
-    );
+    // Send error notification
+    try {
+      const errorEmail = {
+        events: [],
+        changes: [
+          {
+            title: 'System Error',
+            date: new Date().toISOString(),
+            status: 'error',
+            changeType: 'error',
+            description: error.message,
+            stack: error.stack,
+          },
+        ],
+        upcomingPremieres: [],
+      };
 
-    process.exit(1);
+      await sendEmail(errorEmail);
+      await logMessage('Error notification email sent', 'ERROR');
+    } catch (emailError) {
+      await logMessage(
+        `Failed to send error email: ${emailError.message}`,
+        'ERROR'
+      );
+    }
+
+    throw error;
   }
 }
 
-runTicketCheck();
+// Error handling for unhandled rejections
+process.on('unhandledRejection', async (error) => {
+  await logMessage(`Unhandled rejection: ${error.message}`, 'ERROR');
+  await logMessage(error.stack, 'ERROR');
+  process.exit(1);
+});
+
+// Main execution
+if (require.main === module) {
+  runCheck()
+    .then((result) => {
+      logMessage(`Run completed: ${JSON.stringify(result)}`, 'COMPLETE');
+      process.exit(0);
+    })
+    .catch((error) => {
+      logMessage(`Run failed: ${error.message}`, 'ERROR');
+      process.exit(1);
+    });
+}
+
+module.exports = { runCheck };

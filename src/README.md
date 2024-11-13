@@ -1,97 +1,134 @@
-# Ticket Notification System
+# Theatre Ticket Notification System
 
-This project is an automated ticket availability checker and notifier for the Lutkovno gledališče Ljubljana (Ljubljana Puppet Theatre) website. It scrapes the website for ticket information and sends daily email notifications about available tickets.
+An automated system that monitors the Lutkovno gledališče Ljubljana (Ljubljana Puppet Theatre) website for ticket availability and premieres. The system runs multiple times daily via GitHub Actions and sends email notifications about ticket availability, new shows, and upcoming premieres.
 
 ## Features
 
-- Scrapes the Lutkovno gledališče Ljubljana website for ticket information
-- Filters and processes event data
-- Sends daily email notifications with available ticket information
-- Supports multiple email recipients
-- Runs automatically at a scheduled time each day
+- **Automated Monitoring**:
 
-## Prerequisites
+  - Checks run 5 times daily:
+    - 7:00 AM CEST (Early morning)
+    - 10:00 AM CEST (Late morning)
+    - 1:00 PM CEST (After lunch)
+    - 4:00 PM CEST (Mid afternoon)
+    - 7:00 PM CEST (Evening)
+  - Immediate notifications for newly available tickets
+  - Special monitoring for premiere events
 
-Before you begin, ensure you have met the following requirements:
+- **Smart Detection**:
 
-- Node.js (v12 or higher) installed on your system
-- A Gmail account for sending notifications
-- (Optional) A server or always-on computer to run the script continuously
+  - Tracks ticket availability changes
+  - Identifies sold-out shows
+  - Monitors upcoming premieres
+  - Detects invitation-only events
+
+- **Email Notifications**:
+  - 🚨 Urgent alerts for newly available tickets
+  - 🎭 Announcements for new premieres
+  - 📢 Status change updates
+  - Different color-coding for different types of notifications
+
+## Setup Requirements
+
+- GitHub account
+- Gmail account for sending notifications
+- Gmail App Password (for secure authentication)
 
 ## Installation
 
-1. Clone this repository:
+1. Clone the repository:
 
-   ```
-   git clone https://github.com/yourusername/ticket-notification-system.git
-   cd ticket-notification-system
-   ```
-
-2. Install the necessary dependencies:
-
-   ```
-   npm install
-   ```
-
-3. Create a `.env` file in the root directory with the following content:
-   ```
-   EMAIL_USER=your_gmail_address@gmail.com
-   EMAIL_PASS=your_gmail_app_password
-   RECIPIENT_EMAILS=email1@example.com,email2@example.com
-   ```
-   Replace the email addresses and password with your actual Gmail credentials and recipient email addresses.
-
-## Configuration
-
-- The script is set to run daily at 9:00 AM. You can modify this schedule in the `cron.js` file.
-- To add or remove email recipients, update the `RECIPIENT_EMAILS` variable in your `.env` file.
-
-## Usage
-
-To start the ticket notification system:
-
-```
-node cron.js
+```bash
+git clone https://github.com/MilossGIT/TicketNotifier.git
+cd TicketNotifier
 ```
 
-This will start the script, which will:
+2. Install dependencies:
 
-1. Immediately run a check for ticket availability
-2. Schedule daily checks at 9:00 AM
+```bash
+npm install
+```
 
-The script will continue running until stopped. To stop the script, use `Ctrl+C` in the terminal.
+3. Set up GitHub Secrets:
+   - Go to repository Settings → Secrets and variables → Actions
+   - Add these secrets:
+     - `EMAIL_USER`: Your Gmail address
+     - `EMAIL_PASS`: Your Gmail App Password
+     - `RECIPIENT_EMAILS`: Comma-separated email list (e.g., email1@example.com,email2@example.com)
+
+## Gmail Setup
+
+1. Enable 2-Factor Authentication in your Google Account
+2. Generate an App Password:
+   - Go to Google Account → Security
+   - 2-Step Verification → App passwords
+   - Select 'Mail' and generate password
+   - Use this password for `EMAIL_PASS` secret
+
+## Notification Types
+
+The system sends different types of email notifications:
+
+- **Urgent (Red)**: New tickets become available
+- **New (Green)**: Upcoming premieres announced
+- **Update (Yellow)**: Status changes or updates
 
 ## File Structure
 
-- `cron.js`: Sets up the scheduling for daily checks
-- `index.js`: Main logic for checking tickets and initiating notifications
-- `scraper.js`: Contains the web scraping logic
-- `email.js`: Handles email composition and sending
+```
+.
+├── .github/
+│   └── workflows/
+│       └── check-tickets.yml    # Schedule configuration
+├── src/
+│   ├── github-action-runner.js  # Main runner
+│   ├── scraper.js              # Scraping logic
+│   ├── email.js                # Email notifications
+│   └── test-premiere.js        # Test script
+├── package.json
+└── README.md
+```
 
-## Troubleshooting
+## Monitoring
 
-- If emails are not being sent, check your Gmail account settings and ensure that "Less secure app access" is turned on, or use an App Password if you have 2-factor authentication enabled.
-- If the scraper is not working, it might be due to changes in the website's structure. Check the selectors in `scraper.js` and update them if necessary.
+- View runs in the GitHub Actions tab
+- Each check shows:
+  - Number of events found
+  - Status changes
+  - New tickets available
+  - Upcoming premieres
+  - Any errors encountered
 
-## Contributing
+## Local Testing
 
-Contributions to this project are welcome. Please follow these steps:
+To test the system:
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-5. Push to the branch (`git push origin feature/AmazingFeature`)
-6. Open a Pull Request
+```bash
+# Test just email
+node src/test.js --email
 
-## License
+# Test just scraper
+node src/test.js --scraper
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+# Test both
+node src/test.js
+
+## Status Types
+
+- `available`: Tickets can be purchased
+- `sold_out`: No tickets available
+- `upcoming`: Future event
+- `announced`: Just announced
+
+## Error Handling
+
+- Automatic retry on failure
+- Error screenshots captured
+- Detailed logging
+- Email notifications for system issues
 
 ## Contact
 
-If you have any questions or feedback, please contact:
-
-Your Name - youremail@example.com
-
-Project Link: https://github.com/yourusername/ticket-notification-system
+Milos - minasesek@gmail.com
+Project Link: [https://github.com/MilossGIT/TicketNotifier](https://github.com/MilossGIT/TicketNotifier)
+```

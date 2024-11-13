@@ -1,97 +1,164 @@
-# Ticket Notification System
+# LGL Theater Ticket Notifier 🎭
 
-This project is an automated ticket availability checker and notifier for the Lutkovno gledališče Ljubljana (Ljubljana Puppet Theatre) website. It scrapes the website for ticket information and sends daily email notifications about available tickets.
+An automated notification system that monitors ticket availability for the Ljubljana City Theatre (Lutkovno gledališče Ljubljana - LGL) and sends email alerts for ticket availability changes.
 
-## Features
+## Features 🌟
 
-- Scrapes the Lutkovno gledališče Ljubljana website for ticket information
-- Filters and processes event data
-- Sends daily email notifications with available ticket information
-- Supports multiple email recipients
-- Runs automatically at a scheduled time each day
+- **Live Monitoring**: Real-time tracking of ticket availability
+- **Smart Notifications**: Sends email alerts for:
+  - New ticket availability
+  - Show premieres
+  - Sold out shows (RAZPRODANO)
+  - Upcoming shows
+  - Status changes
+- **Detailed Analytics**: Tracks and reports:
+  - Total events
+  - Available tickets
+  - Sold out shows
+  - Upcoming premieres
+  - Status changes
 
-## Prerequisites
+## Tech Stack 💻
 
-Before you begin, ensure you have met the following requirements:
+- Node.js (v22+)
+- Puppeteer (Web Scraping)
+- Nodemailer (Email Notifications)
+- GitHub Actions (Automation)
 
-- Node.js (v12 or higher) installed on your system
-- A Gmail account for sending notifications
-- (Optional) A server or always-on computer to run the script continuously
+## Prerequisites 📋
 
-## Installation
+- Node.js (v22 or higher)
+- Gmail account with App Password enabled
+- Git
 
-1. Clone this repository:
+## Installation 🔧
 
-   ```
-   git clone https://github.com/MilossGIT/TicketNotifier.git
-   cd ticket-notification-system
-   ```
+1. Clone the repository:
 
-2. Install the necessary dependencies:
-
-   ```
-   npm install
-   ```
-
-3. Create a `.env` file in the root directory with the following content:
-   ```
-   EMAIL_USER=your_gmail_address@gmail.com
-   EMAIL_PASS=your_gmail_app_password
-   RECIPIENT_EMAILS=email1@example.com,email2@example.com
-   ```
-   Replace the email addresses and password with your actual Gmail credentials and recipient email addresses.
-
-## Configuration
-
-- The script is set to run daily at 9:00 AM. You can modify this schedule in the `cron.js` file.
-- To add or remove email recipients, update the `RECIPIENT_EMAILS` variable in your `.env` file.
-
-## Usage
-
-To start the ticket notification system:
-
-```
-node cron.js
+```bash
+git clone [repository-url]
+cd NotificationAPP
 ```
 
-This will start the script, which will:
+2. Install dependencies:
 
-1. Immediately run a check for ticket availability
-2. Schedule daily checks at 9:00 AM
+```bash
+npm install
+```
 
-The script will continue running until stopped. To stop the script, use `Ctrl+C` in the terminal.
+3. Set up environment variables:
 
-## File Structure
+```bash
+# Create .env file in root directory
+EMAIL_USER=your-gmail@gmail.com
+EMAIL_APP_PASSWORD=your-16-digit-app-password
+RECIPIENT_EMAILS=recipient1@gmail.com,recipient2@gmail.com
+```
 
-- `cron.js`: Sets up the scheduling for daily checks
-- `index.js`: Main logic for checking tickets and initiating notifications
-- `scraper.js`: Contains the web scraping logic
-- `email.js`: Handles email composition and sending
+## Gmail Setup 📧
 
-## Troubleshooting
+1. Enable 2-Step Verification:
 
-- If emails are not being sent, check your Gmail account settings and ensure that "Less secure app access" is turned on, or use an App Password if you have 2-factor authentication enabled.
-- If the scraper is not working, it might be due to changes in the website's structure. Check the selectors in `scraper.js` and update them if necessary.
+   - Go to Google Account Security
+   - Enable 2-Step Verification
 
-## Contributing
+2. Create App Password:
+   - Go to Google Account → Security → App passwords
+   - Select app: "Mail"
+   - Select device: "Other (Custom name)"
+   - Enter "LGL Ticket Notifier"
+   - Copy the generated 16-character password
 
-Contributions to this project are welcome. Please follow these steps:
+## Usage 🚀
+
+1. Run the complete check:
+
+```bash
+node src/github-action-runner.js
+```
+
+2. Test specific components:
+
+```bash
+# Test scraper
+node src/test.js --scraper
+
+# Test email
+node src/test.js --email
+
+# Run all tests
+node src/test.js
+```
+
+## Automated Checking ⚡
+
+The system runs automated checks via GitHub Actions:
+
+- Early morning (7:00 AM CEST)
+- Late morning (10:00 AM CEST)
+- After lunch (1:00 PM CEST)
+- Mid afternoon (4:00 PM CEST)
+- Evening (7:00 PM CEST)
+
+## Email Notifications 📬
+
+Notifications include:
+
+1. **New Tickets Available** (🎫)
+
+   - Shows that just became available for purchase
+   - Includes direct purchase links
+
+2. **Upcoming Premieres** (🎭)
+
+   - New show premieres
+   - Premiere dates and venues
+
+3. **Currently Available** (🎟️)
+
+   - All shows with available tickets
+   - Purchase links and prices
+
+4. **Sold Out Shows** (⚠️)
+
+   - Recently sold out performances
+   - Shows marked as "RAZPRODANO"
+
+5. **Status Updates** (📢)
+   - Changes in show availability
+   - Other important updates
+
+## Troubleshooting 🔍
+
+Common issues and solutions:
+
+1. Email authentication errors:
+
+   - Verify Gmail App Password
+   - Check .env file location
+   - Ensure no spaces in App Password
+
+2. Scraping issues:
+   - Check internet connection
+   - Verify website accessibility
+   - Check for website structure changes
+
+## Contributing 🤝
 
 1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-5. Push to the branch (`git push origin feature/AmazingFeature`)
-6. Open a Pull Request
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
 
-## License
+## License 📄
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+MIT LICENSE
 
-## Contact
+## Author ✍️
 
-If you have any questions or feedback, please contact:
+Milos (minicm034@gmail.com)
 
-Your Name - youremail@example.com
+---
 
-Project Link: https://github.com/yourusername/ticket-notification-system
+For support, issues, or feature requests, please open an issue on GitHub.
