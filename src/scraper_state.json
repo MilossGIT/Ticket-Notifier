@@ -360,116 +360,36 @@
     }
   ],
   "knownEvents": {
-    "saprami-ka--izven--et---14--nov--2024--ob-17-00": {
-      "title": "SAPRAMIŠKA, izven",
-      "date": "ČET., 14. NOV. 2024, OB 17:00",
-      "eventDate": "14. NOV. 2024",
-      "venue": "Venue not specified",
+    "skriti-koti-ki-tor---3--dec--2024--ob-16-30": {
+      "title": "SKRITI KOTIČKI",
+      "date": "TOR., 3. DEC. 2024, OB 16:30",
+      "eventDate": "3. DEC. 2024",
+      "venue": "Mali oder LGL",
       "price": "Price not available",
-      "status": "sold_out",
-      "availability": "razprodano",
-      "purchaseLink": null,
-      "isSoldOut": true,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "puppet_show",
-      "importance": "normal",
-      "eventId": "saprami-ka--izven--et---14--nov--2024--ob-17-00",
-      "rawDescription": "ČET., 14. NOV. 2024, OB 17:00\n\nSAPRAMIŠKA, izven\n\nSAPRAMIŠKA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
-      "additionalInfo": {
-        "genres": [
-          "Za otroke",
-          "Kultura",
-          "lutkovna predstava"
-        ],
-        "notes": null,
-        "isVabljeni": false,
-        "hasNote": false
-      }
-    },
-    "saprami-ka--izven--et---14--nov--2024--ob-18-30": {
-      "title": "SAPRAMIŠKA, izven",
-      "date": "ČET., 14. NOV. 2024, OB 18:30",
-      "eventDate": "14. NOV. 2024",
-      "venue": "Šentjakobski oder LGL",
-      "price": "5,00 EUR",
       "status": "available",
       "availability": "on_sale",
-      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1192718",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1193646",
       "isSoldOut": false,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "puppet_show",
-      "importance": "normal",
-      "eventId": "saprami-ka--izven--et---14--nov--2024--ob-18-30",
-      "rawDescription": "ČET., 14. NOV. 2024, OB 18:30\n\nSAPRAMIŠKA, izven\n\nObvestilo (Ob 80-letnici Ignacija Šunjića)\n\nSAPRAMIŠKA\nZa otroke, Kultura, lutkovna predstava\n\nŠentjakobski oder LGL\n Nakup\n\t5,00 EUR",
-      "additionalInfo": {
-        "genres": [
-          "Za otroke",
-          "Kultura",
-          "lutkovna predstava"
-        ],
-        "notes": "Obvestilo (Ob 80-letnici Ignacija Šunjića)",
-        "isVabljeni": false,
-        "hasNote": true
-      }
-    },
-    "gluha-republika--gostuje-lgmb--izven-pet---15--nov--2024--ob-19-30": {
-      "title": "GLUHA REPUBLIKA, gostuje LGMB, izven",
-      "date": "PET., 15. NOV. 2024, OB 19:30",
-      "eventDate": "15. NOV. 2024",
-      "venue": "Šentjakobski oder LGL",
-      "price": "5,00 EUR",
-      "status": "available",
-      "availability": "on_sale",
-      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1190985",
-      "isSoldOut": false,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "puppet_show",
-      "importance": "normal",
-      "eventId": "gluha-republika--gostuje-lgmb--izven-pet---15--nov--2024--ob-19-30",
-      "rawDescription": "PET., 15. NOV. 2024, OB 19:30\n\nGLUHA REPUBLIKA, gostuje LGMB, izven\n\nObvestilo (gostuje Lutkovno gledališče Maribor)\n\nGLUHA REPUBLIKA, gostuje LGMB\nZa mladino, Kultura, lutkovna predstava\n\nŠentjakobski oder LGL\n Nakup\n\t5,00 EUR",
-      "additionalInfo": {
-        "genres": [
-          "Za mladino",
-          "Kultura",
-          "lutkovna predstava"
-        ],
-        "notes": "Obvestilo (gostuje Lutkovno gledališče Maribor)",
-        "isVabljeni": false,
-        "hasNote": true
-      }
-    },
-    "z-odra-v-muzej--izven-sob---16--nov--2024--ob-11-00": {
-      "title": "Z ODRA V MUZEJ, izven",
-      "date": "SOB., 16. NOV. 2024, OB 11:00",
-      "eventDate": "16. NOV. 2024",
-      "venue": "Venue not specified",
-      "price": "Price not available",
-      "status": "sold_out",
-      "availability": "razprodano",
-      "purchaseLink": null,
-      "isSoldOut": true,
       "isPremiere": false,
       "premiereDate": null,
       "showType": "other",
       "importance": "normal",
-      "eventId": "z-odra-v-muzej--izven-sob---16--nov--2024--ob-11-00",
-      "rawDescription": "SOB., 16. NOV. 2024, OB 11:00\n\nZ ODRA V MUZEJ, izven\n\nrezervacije na: blagajna@lgl.si in 080 2004\n\nZ ODRA V MUZEJ\nKultura\n\nRAZPRODANO",
+      "eventId": "skriti-koti-ki-tor---3--dec--2024--ob-16-30",
+      "rawDescription": "TOR., 3. DEC. 2024, OB 16:30\n\nSKRITI KOTIČKI\n\nBrezplačne vstopnice (Voden ogled gledališča ob dnevu odprtih vrat v slovenski kulturi)\n\nSKRITI KOTIČKI\nKultura, Za otroke\n\nMali oder LGL\n Nakup",
       "additionalInfo": {
         "genres": [
-          "Kultura"
+          "Kultura",
+          "Za otroke"
         ],
-        "notes": "rezervacije na: blagajna@lgl.si in 080 2004",
+        "notes": "Brezplačne vstopnice (Voden ogled gledališča ob dnevu odprtih vrat v slovenski kulturi)",
         "isVabljeni": false,
         "hasNote": true
       }
     },
-    "zaj-kova-hi-ica--izven-sob---16--nov--2024--ob-11-00": {
-      "title": "ZAJČKOVA HIŠICA, izven",
-      "date": "SOB., 16. NOV. 2024, OB 11:00",
-      "eventDate": "16. NOV. 2024",
+    "-krt--krt-kra--of---izven-tor---3--dec--2024--ob-17-00": {
+      "title": "ŠKRT ŠKRT KRA ČOF!, izven",
+      "date": "TOR., 3. DEC. 2024, OB 17:00",
+      "eventDate": "3. DEC. 2024",
       "venue": "Venue not specified",
       "price": "Price not available",
       "status": "sold_out",
@@ -480,66 +400,173 @@
       "premiereDate": null,
       "showType": "puppet_show",
       "importance": "normal",
-      "eventId": "zaj-kova-hi-ica--izven-sob---16--nov--2024--ob-11-00",
-      "rawDescription": "SOB., 16. NOV. 2024, OB 11:00\n\nZAJČKOVA HIŠICA, izven\n\nZAJČKOVA HIŠICA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "eventId": "-krt--krt-kra--of---izven-tor---3--dec--2024--ob-17-00",
+      "rawDescription": "TOR., 3. DEC. 2024, OB 17:00\n\nŠKRT ŠKRT KRA ČOF!, izven\n\nsedežni red ne velja\n\nŠKRT ŠKRT KRA ČOF!\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
       "additionalInfo": {
         "genres": [
           "Za otroke",
           "Kultura",
           "lutkovna predstava"
         ],
-        "notes": null,
+        "notes": "sedežni red ne velja",
         "isVabljeni": false,
-        "hasNote": false
+        "hasNote": true
       }
     },
-    "zaj-kova-hi-ica--izven-sob---16--nov--2024--ob-17-00": {
-      "title": "ZAJČKOVA HIŠICA, izven",
-      "date": "SOB., 16. NOV. 2024, OB 17:00",
-      "eventDate": "16. NOV. 2024",
-      "venue": "Venue not specified",
-      "price": "Price not available",
-      "status": "sold_out",
-      "availability": "razprodano",
-      "purchaseLink": null,
-      "isSoldOut": true,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "puppet_show",
-      "importance": "normal",
-      "eventId": "zaj-kova-hi-ica--izven-sob---16--nov--2024--ob-17-00",
-      "rawDescription": "SOB., 16. NOV. 2024, OB 17:00\n\nZAJČKOVA HIŠICA, izven\n\nZAJČKOVA HIŠICA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
-      "additionalInfo": {
-        "genres": [
-          "Za otroke",
-          "Kultura",
-          "lutkovna predstava"
-        ],
-        "notes": null,
-        "isVabljeni": false,
-        "hasNote": false
-      }
-    },
-    "samson-in-roberto--fjordski-razgled--izven-tor---19--nov--2024--ob-17-00": {
-      "title": "SAMSON IN ROBERTO: FJORDSKI RAZGLED, izven",
-      "date": "TOR., 19. NOV. 2024, OB 17:00",
-      "eventDate": "19. NOV. 2024",
-      "venue": "Šentjakobski oder LGL",
+    "v-dobrih-rokah--izven-pet---6--dec--2024--ob-17-30": {
+      "title": "V DOBRIH ROKAH, izven",
+      "date": "PET., 6. DEC. 2024, OB 17:30",
+      "eventDate": "6. DEC. 2024",
+      "venue": "Oder pod zvezdami LGL",
       "price": "5,00 EUR",
       "status": "available",
       "availability": "on_sale",
-      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191104",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1192844",
       "isSoldOut": false,
       "isPremiere": false,
       "premiereDate": null,
       "showType": "puppet_show",
       "importance": "normal",
-      "eventId": "samson-in-roberto--fjordski-razgled--izven-tor---19--nov--2024--ob-17-00",
-      "rawDescription": "TOR., 19. NOV. 2024, OB 17:00\n\nSAMSON IN ROBERTO: FJORDSKI RAZGLED, izven\n\nSAMSON IN ROBERTO: FJORDSKI RAZGLED\nZa otroke, Za mladino, Kultura, lutkovna predstava\n\nŠentjakobski oder LGL\n Nakup\n\t5,00 EUR",
+      "eventId": "v-dobrih-rokah--izven-pet---6--dec--2024--ob-17-30",
+      "rawDescription": "PET., 6. DEC. 2024, OB 17:30\n\nV DOBRIH ROKAH, izven\n\nObvestilo (Sedežni red ne velja)\n\nV DOBRIH ROKAH\nZa otroke, Kultura, lutkovna predstava\n\nOder pod zvezdami LGL\n Nakup\n\t5,00 EUR",
       "additionalInfo": {
         "genres": [
           "Za otroke",
-          "Za mladino",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "Obvestilo (Sedežni red ne velja)",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "pisma-z-roba-gozda--izven-sob---7--dec--2024--ob-11-00": {
+      "title": "PISMA Z ROBA GOZDA, izven",
+      "date": "SOB., 7. DEC. 2024, OB 11:00",
+      "eventDate": "7. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "drama",
+      "importance": "normal",
+      "eventId": "pisma-z-roba-gozda--izven-sob---7--dec--2024--ob-11-00",
+      "rawDescription": "SOB., 7. DEC. 2024, OB 11:00\n\nPISMA Z ROBA GOZDA, izven\n\nPISMA Z ROBA GOZDA\nZa otroke, Kultura, dramska predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "dramska predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "v-dobrih-rokah--izven-sob---7--dec--2024--ob-11-30": {
+      "title": "V DOBRIH ROKAH, izven",
+      "date": "SOB., 7. DEC. 2024, OB 11:30",
+      "eventDate": "7. DEC. 2024",
+      "venue": "Oder pod zvezdami LGL",
+      "price": "5,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1192849",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "v-dobrih-rokah--izven-sob---7--dec--2024--ob-11-30",
+      "rawDescription": "SOB., 7. DEC. 2024, OB 11:30\n\nV DOBRIH ROKAH, izven\n\nObvestilo (Sedežni red ne velja)\n\nV DOBRIH ROKAH\nZa otroke, Kultura, lutkovna predstava\n\nOder pod zvezdami LGL\n Nakup\n\t5,00 EUR",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "Obvestilo (Sedežni red ne velja)",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "v-dobrih-rokah--izven-sob---7--dec--2024--ob-16-00": {
+      "title": "V DOBRIH ROKAH, izven",
+      "date": "SOB., 7. DEC. 2024, OB 16:00",
+      "eventDate": "7. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "v-dobrih-rokah--izven-sob---7--dec--2024--ob-16-00",
+      "rawDescription": "SOB., 7. DEC. 2024, OB 16:00\n\nV DOBRIH ROKAH, izven\n\nSedežni red ne velja\n\nV DOBRIH ROKAH\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "Sedežni red ne velja",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "v-dobrih-rokah--izven-sob---7--dec--2024--ob-18-00": {
+      "title": "V DOBRIH ROKAH, izven",
+      "date": "SOB., 7. DEC. 2024, OB 18:00",
+      "eventDate": "7. DEC. 2024",
+      "venue": "Oder pod zvezdami LGL",
+      "price": "5,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1192852",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "v-dobrih-rokah--izven-sob---7--dec--2024--ob-18-00",
+      "rawDescription": "SOB., 7. DEC. 2024, OB 18:00\n\nV DOBRIH ROKAH, izven\n\nObvestilo (Sedežni red ne velja)\n\nV DOBRIH ROKAH\nZa otroke, Kultura, lutkovna predstava\n\nOder pod zvezdami LGL\n Nakup\n\t5,00 EUR",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "Obvestilo (Sedežni red ne velja)",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "zaj-kova-hi-ica--izven-sob---7--dec--2024--ob-18-00": {
+      "title": "ZAJČKOVA HIŠICA, izven",
+      "date": "SOB., 7. DEC. 2024, OB 18:00",
+      "eventDate": "7. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "zaj-kova-hi-ica--izven-sob---7--dec--2024--ob-18-00",
+      "rawDescription": "SOB., 7. DEC. 2024, OB 18:00\n\nZAJČKOVA HIŠICA, izven\n\nZAJČKOVA HIŠICA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
           "Kultura",
           "lutkovna predstava"
         ],
@@ -548,10 +575,64 @@
         "hasNote": false
       }
     },
-    "medvedek-pu--izven-sre---20--nov--2024--ob-17-00": {
+    "v-dobrih-rokah--izven-ned---8--dec--2024--ob-11-00": {
+      "title": "V DOBRIH ROKAH, izven",
+      "date": "NED., 8. DEC. 2024, OB 11:00",
+      "eventDate": "8. DEC. 2024",
+      "venue": "Oder pod zvezdami LGL",
+      "price": "5,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1192853",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "v-dobrih-rokah--izven-ned---8--dec--2024--ob-11-00",
+      "rawDescription": "NED., 8. DEC. 2024, OB 11:00\n\nV DOBRIH ROKAH, izven\n\nObvestilo (Sedežni red ne velja)\n\nV DOBRIH ROKAH\nZa otroke, Kultura, lutkovna predstava\n\nOder pod zvezdami LGL\n Nakup\n\t5,00 EUR",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "Obvestilo (Sedežni red ne velja)",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "v-dobrih-rokah--izven-ned---8--dec--2024--ob-17-00": {
+      "title": "V DOBRIH ROKAH, izven",
+      "date": "NED., 8. DEC. 2024, OB 17:00",
+      "eventDate": "8. DEC. 2024",
+      "venue": "Oder pod zvezdami LGL",
+      "price": "5,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1192854",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "v-dobrih-rokah--izven-ned---8--dec--2024--ob-17-00",
+      "rawDescription": "NED., 8. DEC. 2024, OB 17:00\n\nV DOBRIH ROKAH, izven\n\nObvestilo (Sedežni red ne velja)\n\nV DOBRIH ROKAH\nZa otroke, Kultura, lutkovna predstava\n\nOder pod zvezdami LGL\n Nakup\n\t5,00 EUR",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "Obvestilo (Sedežni red ne velja)",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "medvedek-pu--izven-ned---8--dec--2024--ob-18-00": {
       "title": "MEDVEDEK PU, izven",
-      "date": "SRE., 20. NOV. 2024, OB 17:00",
-      "eventDate": "20. NOV. 2024",
+      "date": "NED., 8. DEC. 2024, OB 18:00",
+      "eventDate": "8. DEC. 2024",
       "venue": "Venue not specified",
       "price": "Price not available",
       "status": "sold_out",
@@ -562,143 +643,8 @@
       "premiereDate": null,
       "showType": "puppet_show",
       "importance": "normal",
-      "eventId": "medvedek-pu--izven-sre---20--nov--2024--ob-17-00",
-      "rawDescription": "SRE., 20. NOV. 2024, OB 17:00\n\nMEDVEDEK PU, izven\n\nsedežni red ne velja\n\nMEDVEDEK PU\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
-      "additionalInfo": {
-        "genres": [
-          "Za otroke",
-          "Kultura",
-          "lutkovna predstava"
-        ],
-        "notes": "sedežni red ne velja",
-        "isVabljeni": false,
-        "hasNote": true
-      }
-    },
-    "samson-in-roberto--fjordski-razgled--izven--et---21--nov--2024--ob-17-00": {
-      "title": "SAMSON IN ROBERTO: FJORDSKI RAZGLED, izven",
-      "date": "ČET., 21. NOV. 2024, OB 17:00",
-      "eventDate": "21. NOV. 2024",
-      "venue": "Šentjakobski oder LGL",
-      "price": "5,00 EUR",
-      "status": "available",
-      "availability": "on_sale",
-      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191105",
-      "isSoldOut": false,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "puppet_show",
-      "importance": "normal",
-      "eventId": "samson-in-roberto--fjordski-razgled--izven--et---21--nov--2024--ob-17-00",
-      "rawDescription": "ČET., 21. NOV. 2024, OB 17:00\n\nSAMSON IN ROBERTO: FJORDSKI RAZGLED, izven\n\nSAMSON IN ROBERTO: FJORDSKI RAZGLED\nZa otroke, Za mladino, Kultura, lutkovna predstava\n\nŠentjakobski oder LGL\n Nakup\n\t5,00 EUR",
-      "additionalInfo": {
-        "genres": [
-          "Za otroke",
-          "Za mladino",
-          "Kultura",
-          "lutkovna predstava"
-        ],
-        "notes": null,
-        "isVabljeni": false,
-        "hasNote": false
-      }
-    },
-    "obisk--izven-sob---23--nov--2024--ob-11-00": {
-      "title": "OBISK, izven",
-      "date": "SOB., 23. NOV. 2024, OB 11:00",
-      "eventDate": "23. NOV. 2024",
-      "venue": "Venue not specified",
-      "price": "Price not available",
-      "status": "sold_out",
-      "availability": "razprodano",
-      "purchaseLink": null,
-      "isSoldOut": true,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "puppet_show",
-      "importance": "normal",
-      "eventId": "obisk--izven-sob---23--nov--2024--ob-11-00",
-      "rawDescription": "SOB., 23. NOV. 2024, OB 11:00\n\nOBISK, izven\n\nsedežni red ne velja\n\nOBISK\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
-      "additionalInfo": {
-        "genres": [
-          "Za otroke",
-          "Kultura",
-          "lutkovna predstava"
-        ],
-        "notes": "sedežni red ne velja",
-        "isVabljeni": false,
-        "hasNote": true
-      }
-    },
-    "obisk--izven-sob---23--nov--2024--ob-17-00": {
-      "title": "OBISK, izven",
-      "date": "SOB., 23. NOV. 2024, OB 17:00",
-      "eventDate": "23. NOV. 2024",
-      "venue": "Venue not specified",
-      "price": "Price not available",
-      "status": "sold_out",
-      "availability": "razprodano",
-      "purchaseLink": null,
-      "isSoldOut": true,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "puppet_show",
-      "importance": "normal",
-      "eventId": "obisk--izven-sob---23--nov--2024--ob-17-00",
-      "rawDescription": "SOB., 23. NOV. 2024, OB 17:00\n\nOBISK, izven\n\nsedežni red ne velja\n\nOBISK\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
-      "additionalInfo": {
-        "genres": [
-          "Za otroke",
-          "Kultura",
-          "lutkovna predstava"
-        ],
-        "notes": "sedežni red ne velja",
-        "isVabljeni": false,
-        "hasNote": true
-      }
-    },
-    "macbeth--izven-sob---23--nov--2024--ob-19-30": {
-      "title": "MACBETH, izven",
-      "date": "SOB., 23. NOV. 2024, OB 19:30",
-      "eventDate": "23. NOV. 2024",
-      "venue": "Tunel LGL",
-      "price": "5,00 EUR",
-      "status": "available",
-      "availability": "on_sale",
-      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191116",
-      "isSoldOut": false,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "other",
-      "importance": "normal",
-      "eventId": "macbeth--izven-sob---23--nov--2024--ob-19-30",
-      "rawDescription": "SOB., 23. NOV. 2024, OB 19:30\n\nMACBETH, izven\n\nObvestilo (sedežni red ne velja, priporočamo topla oblačila)\n\nMACBETH\nKultura, za odrasle\n\nTunel LGL\n Nakup\n\t5,00 EUR",
-      "additionalInfo": {
-        "genres": [
-          "Kultura",
-          "za odrasle"
-        ],
-        "notes": "Obvestilo (sedežni red ne velja, priporočamo topla oblačila)",
-        "isVabljeni": false,
-        "hasNote": true
-      }
-    },
-    "mi-ek-julijan--izven-ned---24--nov--2024--ob-11-00": {
-      "title": "MIŠEK JULIJAN, izven",
-      "date": "NED., 24. NOV. 2024, OB 11:00",
-      "eventDate": "24. NOV. 2024",
-      "venue": "Venue not specified",
-      "price": "Price not available",
-      "status": "sold_out",
-      "availability": "razprodano",
-      "purchaseLink": null,
-      "isSoldOut": true,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "puppet_show",
-      "importance": "normal",
-      "eventId": "mi-ek-julijan--izven-ned---24--nov--2024--ob-11-00",
-      "rawDescription": "NED., 24. NOV. 2024, OB 11:00\n\nMIŠEK JULIJAN, izven\n\nMIŠEK JULIJAN\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "eventId": "medvedek-pu--izven-ned---8--dec--2024--ob-18-00",
+      "rawDescription": "NED., 8. DEC. 2024, OB 18:00\n\nMEDVEDEK PU, izven\n\nMEDVEDEK PU\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
       "additionalInfo": {
         "genres": [
           "Za otroke",
@@ -710,10 +656,10 @@
         "hasNote": false
       }
     },
-    "mi-ek-julijan--izven-ned---24--nov--2024--ob-17-00": {
-      "title": "MIŠEK JULIJAN, izven",
-      "date": "NED., 24. NOV. 2024, OB 17:00",
-      "eventDate": "24. NOV. 2024",
+    "medved-in-mali--izven-pon---9--dec--2024--ob-16-15": {
+      "title": "MEDVED IN MALI, izven",
+      "date": "PON., 9. DEC. 2024, OB 16:15",
+      "eventDate": "9. DEC. 2024",
       "venue": "Venue not specified",
       "price": "Price not available",
       "status": "sold_out",
@@ -724,8 +670,35 @@
       "premiereDate": null,
       "showType": "puppet_show",
       "importance": "normal",
-      "eventId": "mi-ek-julijan--izven-ned---24--nov--2024--ob-17-00",
-      "rawDescription": "NED., 24. NOV. 2024, OB 17:00\n\nMIŠEK JULIJAN, izven\n\nMIŠEK JULIJAN\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "eventId": "medved-in-mali--izven-pon---9--dec--2024--ob-16-15",
+      "rawDescription": "PON., 9. DEC. 2024, OB 16:15\n\nMEDVED IN MALI, izven\n\nsedežni red ne velja\n\nMEDVED IN MALI\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "sedežni red ne velja",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "medvedek-pu--izven-pon---9--dec--2024--ob-17-00": {
+      "title": "MEDVEDEK PU, izven",
+      "date": "PON., 9. DEC. 2024, OB 17:00",
+      "eventDate": "9. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "medvedek-pu--izven-pon---9--dec--2024--ob-17-00",
+      "rawDescription": "PON., 9. DEC. 2024, OB 17:00\n\nMEDVEDEK PU, izven\n\nMEDVEDEK PU\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
       "additionalInfo": {
         "genres": [
           "Za otroke",
@@ -737,30 +710,58 @@
         "hasNote": false
       }
     },
-    "macbeth--abonma-15--in-izven-pon---25--nov--2024--ob-18-00": {
-      "title": "MACBETH, Abonma 15+ in izven",
-      "date": "PON., 25. NOV. 2024, OB 18:00",
-      "eventDate": "25. NOV. 2024",
-      "venue": "Tunel LGL",
-      "price": "5,00 EUR",
-      "status": "available",
-      "availability": "on_sale",
-      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191117",
-      "isSoldOut": false,
+    "saprami-ka--izven--et---12--dec--2024--ob-17-00": {
+      "title": "SAPRAMIŠKA, izven",
+      "date": "ČET., 12. DEC. 2024, OB 17:00",
+      "eventDate": "12. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
       "isPremiere": false,
       "premiereDate": null,
-      "showType": "other",
+      "showType": "puppet_show",
       "importance": "normal",
-      "eventId": "macbeth--abonma-15--in-izven-pon---25--nov--2024--ob-18-00",
-      "rawDescription": "PON., 25. NOV. 2024, OB 18:00\n\nMACBETH, Abonma 15+ in izven\n\nObvestilo (Abonma 15+, sedežni red ne velja, priporočamo topla oblačila)\n\nMACBETH\nKultura, za odrasle\n\nTunel LGL\n Nakup\n\t5,00 EUR",
+      "eventId": "saprami-ka--izven--et---12--dec--2024--ob-17-00",
+      "rawDescription": "ČET., 12. DEC. 2024, OB 17:00\n\nSAPRAMIŠKA, izven\n\nSAPRAMIŠKA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
       "additionalInfo": {
         "genres": [
+          "Za otroke",
           "Kultura",
-          "za odrasle"
+          "lutkovna predstava"
         ],
-        "notes": "Obvestilo (Abonma 15+, sedežni red ne velja, priporočamo topla oblačila)",
+        "notes": null,
         "isVabljeni": false,
-        "hasNote": true
+        "hasNote": false
+      }
+    },
+    "pal-ica--izven-pet---13--dec--2024--ob-17-00": {
+      "title": "PALČICA, izven",
+      "date": "PET., 13. DEC. 2024, OB 17:00",
+      "eventDate": "13. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "pal-ica--izven-pet---13--dec--2024--ob-17-00",
+      "rawDescription": "PET., 13. DEC. 2024, OB 17:00\n\nPALČICA, izven\n\nPALČICA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
       }
     },
     "katalog-lum--angle-ki---eng-no-date": {
@@ -993,37 +994,253 @@
         "hasNote": false
       }
     },
-    "obisk--izven-tor---26--nov--2024--ob-17-00": {
-      "title": "OBISK, izven",
-      "date": "TOR., 26. NOV. 2024, OB 17:00",
-      "eventDate": "26. NOV. 2024",
+    "saprami-ka--izven-sob---14--dec--2024--ob-09-30": {
+      "title": "SAPRAMIŠKA, izven",
+      "date": "SOB., 14. DEC. 2024, OB 09:30",
+      "eventDate": "14. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "saprami-ka--izven-sob---14--dec--2024--ob-09-30",
+      "rawDescription": "SOB., 14. DEC. 2024, OB 09:30\n\nSAPRAMIŠKA, izven\n\nSAPRAMIŠKA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "saprami-ka--izven-sob---14--dec--2024--ob-11-30": {
+      "title": "SAPRAMIŠKA, izven",
+      "date": "SOB., 14. DEC. 2024, OB 11:30",
+      "eventDate": "14. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "saprami-ka--izven-sob---14--dec--2024--ob-11-30",
+      "rawDescription": "SOB., 14. DEC. 2024, OB 11:30\n\nSAPRAMIŠKA, izven\n\nSAPRAMIŠKA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "pal-ica--izven-sob---14--dec--2024--ob-16-00": {
+      "title": "PALČICA, izven",
+      "date": "SOB., 14. DEC. 2024, OB 16:00",
+      "eventDate": "14. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "pal-ica--izven-sob---14--dec--2024--ob-16-00",
+      "rawDescription": "SOB., 14. DEC. 2024, OB 16:00\n\nPALČICA, izven\n\nPALČICA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "pal-ica--izven-sob---14--dec--2024--ob-18-00": {
+      "title": "PALČICA, izven",
+      "date": "SOB., 14. DEC. 2024, OB 18:00",
+      "eventDate": "14. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "pal-ica--izven-sob---14--dec--2024--ob-18-00",
+      "rawDescription": "SOB., 14. DEC. 2024, OB 18:00\n\nPALČICA, izven\n\nPALČICA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "zverja--ek--izven-ned---15--dec--2024--ob-10-00": {
+      "title": "ZVERJAŠČEK, izven",
+      "date": "NED., 15. DEC. 2024, OB 10:00",
+      "eventDate": "15. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "zverja--ek--izven-ned---15--dec--2024--ob-10-00",
+      "rawDescription": "NED., 15. DEC. 2024, OB 10:00\n\nZVERJAŠČEK, izven\n\nZVERJAŠČEK\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "-tiri--rne-mravljice--izven-ned---15--dec--2024--ob-10-30": {
+      "title": "ŠTIRI ČRNE MRAVLJICE, izven",
+      "date": "NED., 15. DEC. 2024, OB 10:30",
+      "eventDate": "15. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "-tiri--rne-mravljice--izven-ned---15--dec--2024--ob-10-30",
+      "rawDescription": "NED., 15. DEC. 2024, OB 10:30\n\nŠTIRI ČRNE MRAVLJICE, izven\n\nSedežni red ne velja\n\nŠTIRI ČRNE MRAVLJICE\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "Sedežni red ne velja",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "pal-ica--izven-ned---15--dec--2024--ob-11-00": {
+      "title": "PALČICA, izven",
+      "date": "NED., 15. DEC. 2024, OB 11:00",
+      "eventDate": "15. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "pal-ica--izven-ned---15--dec--2024--ob-11-00",
+      "rawDescription": "NED., 15. DEC. 2024, OB 11:00\n\nPALČICA, izven\n\nPALČICA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "zverja--ek--izven-ned---15--dec--2024--ob-11-30": {
+      "title": "ZVERJAŠČEK, izven",
+      "date": "NED., 15. DEC. 2024, OB 11:30",
+      "eventDate": "15. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "zverja--ek--izven-ned---15--dec--2024--ob-11-30",
+      "rawDescription": "NED., 15. DEC. 2024, OB 11:30\n\nZVERJAŠČEK, izven\n\nZVERJAŠČEK\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "-tiri--rne-mravljice--izven-ned---15--dec--2024--ob-12-00": {
+      "title": "ŠTIRI ČRNE MRAVLJICE, izven",
+      "date": "NED., 15. DEC. 2024, OB 12:00",
+      "eventDate": "15. DEC. 2024",
       "venue": "Oder pod zvezdami LGL",
       "price": "5,00 EUR",
       "status": "available",
       "availability": "on_sale",
-      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191113",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1193705",
       "isSoldOut": false,
       "isPremiere": false,
       "premiereDate": null,
       "showType": "puppet_show",
       "importance": "normal",
-      "eventId": "obisk--izven-tor---26--nov--2024--ob-17-00",
-      "rawDescription": "TOR., 26. NOV. 2024, OB 17:00\n\nOBISK, izven\n\nObvestilo (sedežni red ne velja)\n\nOBISK\nZa otroke, Kultura, lutkovna predstava\n\nOder pod zvezdami LGL\n Nakup\n\t5,00 EUR",
+      "eventId": "-tiri--rne-mravljice--izven-ned---15--dec--2024--ob-12-00",
+      "rawDescription": "NED., 15. DEC. 2024, OB 12:00\n\nŠTIRI ČRNE MRAVLJICE, izven\n\nObvestilo (Sedežni red ne velja)\n\nŠTIRI ČRNE MRAVLJICE\nZa otroke, Kultura, lutkovna predstava\n\nOder pod zvezdami LGL\n Nakup\n\t5,00 EUR",
       "additionalInfo": {
         "genres": [
           "Za otroke",
           "Kultura",
           "lutkovna predstava"
         ],
-        "notes": "Obvestilo (sedežni red ne velja)",
+        "notes": "Obvestilo (Sedežni red ne velja)",
         "isVabljeni": false,
         "hasNote": true
       }
     },
-    "mi-ek-julijan--izven-tor---26--nov--2024--ob-17-30": {
-      "title": "MIŠEK JULIJAN, izven",
-      "date": "TOR., 26. NOV. 2024, OB 17:30",
-      "eventDate": "26. NOV. 2024",
+    "pal-ica--izven-ned---15--dec--2024--ob-17-00": {
+      "title": "PALČICA, izven",
+      "date": "NED., 15. DEC. 2024, OB 17:00",
+      "eventDate": "15. DEC. 2024",
       "venue": "Venue not specified",
       "price": "Price not available",
       "status": "sold_out",
@@ -1034,8 +1251,8 @@
       "premiereDate": null,
       "showType": "puppet_show",
       "importance": "normal",
-      "eventId": "mi-ek-julijan--izven-tor---26--nov--2024--ob-17-30",
-      "rawDescription": "TOR., 26. NOV. 2024, OB 17:30\n\nMIŠEK JULIJAN, izven\n\nMIŠEK JULIJAN\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "eventId": "pal-ica--izven-ned---15--dec--2024--ob-17-00",
+      "rawDescription": "NED., 15. DEC. 2024, OB 17:00\n\nPALČICA, izven\n\nPALČICA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
       "additionalInfo": {
         "genres": [
           "Za otroke",
@@ -1047,209 +1264,103 @@
         "hasNote": false
       }
     },
-    "macbeth--abonma-15--in-izven-tor---26--nov--2024--ob-18-00": {
-      "title": "MACBETH, Abonma 15+ in izven",
-      "date": "TOR., 26. NOV. 2024, OB 18:00",
-      "eventDate": "26. NOV. 2024",
-      "venue": "Tunel LGL",
+    "-tiri--rne-mravljice--izven-ned---15--dec--2024--ob-17-00": {
+      "title": "ŠTIRI ČRNE MRAVLJICE, izven",
+      "date": "NED., 15. DEC. 2024, OB 17:00",
+      "eventDate": "15. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "-tiri--rne-mravljice--izven-ned---15--dec--2024--ob-17-00",
+      "rawDescription": "NED., 15. DEC. 2024, OB 17:00\n\nŠTIRI ČRNE MRAVLJICE, izven\n\nSedežni red ne velja\n\nŠTIRI ČRNE MRAVLJICE\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "Sedežni red ne velja",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "medo-in-pujsi--izven-pon---16--dec--2024--ob-17-00": {
+      "title": "MEDO IN PUJSI, izven",
+      "date": "PON., 16. DEC. 2024, OB 17:00",
+      "eventDate": "16. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "medo-in-pujsi--izven-pon---16--dec--2024--ob-17-00",
+      "rawDescription": "PON., 16. DEC. 2024, OB 17:00\n\nMEDO IN PUJSI, izven\n\nMEDO IN PUJSI\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "medo-in-pujsi--izven-tor---17--dec--2024--ob-16-15": {
+      "title": "MEDO IN PUJSI, izven",
+      "date": "TOR., 17. DEC. 2024, OB 16:15",
+      "eventDate": "17. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "medo-in-pujsi--izven-tor---17--dec--2024--ob-16-15",
+      "rawDescription": "TOR., 17. DEC. 2024, OB 16:15\n\nMEDO IN PUJSI, izven\n\nMEDO IN PUJSI\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "polna-luna--izven-tor---17--dec--2024--ob-17-00": {
+      "title": "POLNA LUNA, izven",
+      "date": "TOR., 17. DEC. 2024, OB 17:00",
+      "eventDate": "17. DEC. 2024",
+      "venue": "Šentjakobski oder LGL",
       "price": "5,00 EUR",
       "status": "available",
       "availability": "on_sale",
-      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191118",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1192935",
       "isSoldOut": false,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "other",
-      "importance": "normal",
-      "eventId": "macbeth--abonma-15--in-izven-tor---26--nov--2024--ob-18-00",
-      "rawDescription": "TOR., 26. NOV. 2024, OB 18:00\n\nMACBETH, Abonma 15+ in izven\n\nObvestilo (Abonma 15+, sedežni red ne velja, priporočamo topla oblačila)\n\nMACBETH\nKultura, za odrasle\n\nTunel LGL\n Nakup\n\t5,00 EUR",
-      "additionalInfo": {
-        "genres": [
-          "Kultura",
-          "za odrasle"
-        ],
-        "notes": "Obvestilo (Abonma 15+, sedežni red ne velja, priporočamo topla oblačila)",
-        "isVabljeni": false,
-        "hasNote": true
-      }
-    },
-    "mi-ek-julijan--izven-sre---27--nov--2024--ob-17-00": {
-      "title": "MIŠEK JULIJAN, izven",
-      "date": "SRE., 27. NOV. 2024, OB 17:00",
-      "eventDate": "27. NOV. 2024",
-      "venue": "Venue not specified",
-      "price": "Price not available",
-      "status": "sold_out",
-      "availability": "razprodano",
-      "purchaseLink": null,
-      "isSoldOut": true,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "puppet_show",
-      "importance": "normal",
-      "eventId": "mi-ek-julijan--izven-sre---27--nov--2024--ob-17-00",
-      "rawDescription": "SRE., 27. NOV. 2024, OB 17:00\n\nMIŠEK JULIJAN, izven\n\nMIŠEK JULIJAN\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
-      "additionalInfo": {
-        "genres": [
-          "Za otroke",
-          "Kultura",
-          "lutkovna predstava"
-        ],
-        "notes": null,
-        "isVabljeni": false,
-        "hasNote": false
-      }
-    },
-    "macbeth--abonma-15--in-izven-sre---27--nov--2024--ob-18-00": {
-      "title": "MACBETH, Abonma 15+ in izven",
-      "date": "SRE., 27. NOV. 2024, OB 18:00",
-      "eventDate": "27. NOV. 2024",
-      "venue": "Tunel LGL",
-      "price": "5,00 EUR",
-      "status": "available",
-      "availability": "on_sale",
-      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191119",
-      "isSoldOut": false,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "other",
-      "importance": "normal",
-      "eventId": "macbeth--abonma-15--in-izven-sre---27--nov--2024--ob-18-00",
-      "rawDescription": "SRE., 27. NOV. 2024, OB 18:00\n\nMACBETH, Abonma 15+ in izven\n\nObvestilo (Abonma 15+, sedežni red ne velja, priporočamo topla oblačila)\n\nMACBETH\nKultura, za odrasle\n\nTunel LGL\n Nakup\n\t5,00 EUR",
-      "additionalInfo": {
-        "genres": [
-          "Kultura",
-          "za odrasle"
-        ],
-        "notes": "Obvestilo (Abonma 15+, sedežni red ne velja, priporočamo topla oblačila)",
-        "isVabljeni": false,
-        "hasNote": true
-      }
-    },
-    "mi-ek-julijan--izven--et---28--nov--2024--ob-17-00": {
-      "title": "MIŠEK JULIJAN, izven",
-      "date": "ČET., 28. NOV. 2024, OB 17:00",
-      "eventDate": "28. NOV. 2024",
-      "venue": "Venue not specified",
-      "price": "Price not available",
-      "status": "sold_out",
-      "availability": "razprodano",
-      "purchaseLink": null,
-      "isSoldOut": true,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "puppet_show",
-      "importance": "normal",
-      "eventId": "mi-ek-julijan--izven--et---28--nov--2024--ob-17-00",
-      "rawDescription": "ČET., 28. NOV. 2024, OB 17:00\n\nMIŠEK JULIJAN, izven\n\nMIŠEK JULIJAN\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
-      "additionalInfo": {
-        "genres": [
-          "Za otroke",
-          "Kultura",
-          "lutkovna predstava"
-        ],
-        "notes": null,
-        "isVabljeni": false,
-        "hasNote": false
-      }
-    },
-    "pisma-z-roba-gozda--premiera-in-izven--et---28--nov--2024--ob-18-00": {
-      "title": "PISMA Z ROBA GOZDA, premiera in izven",
-      "date": "ČET., 28. NOV. 2024, OB 18:00",
-      "eventDate": "28. NOV. 2024",
-      "venue": "Veliki oder LGL",
-      "price": "Price not available",
-      "status": "announced",
-      "availability": "upcoming",
-      "purchaseLink": null,
-      "isSoldOut": false,
-      "isPremiere": true,
-      "premiereDate": "28. NOV. 2024",
-      "showType": "drama",
-      "importance": "high",
-      "eventId": "pisma-z-roba-gozda--premiera-in-izven--et---28--nov--2024--ob-18-00",
-      "rawDescription": "ČET., 28. NOV. 2024, OB 18:00\n\nPISMA Z ROBA GOZDA, premiera in izven\n\nNapovedujemo (Premiera za vabljene)\n\nPISMA Z ROBA GOZDA\nZa otroke, Kultura, dramska predstava\n\nVeliki oder LGL",
-      "additionalInfo": {
-        "genres": [
-          "Za otroke",
-          "Kultura",
-          "dramska predstava"
-        ],
-        "notes": "Napovedujemo (Premiera za vabljene)",
-        "isVabljeni": true,
-        "hasNote": true
-      }
-    },
-    "transport--odhod--izven-pet---29--nov--2024--ob-19-30": {
-      "title": "TRANSPORT: ODHOD, izven",
-      "date": "PET., 29. NOV. 2024, OB 19:30",
-      "eventDate": "29. NOV. 2024",
-      "venue": "Oder pod zvezdami LGL",
-      "price": "5,00 EUR",
-      "status": "available",
-      "availability": "on_sale",
-      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1191143",
-      "isSoldOut": false,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "puppet_show",
-      "importance": "normal",
-      "eventId": "transport--odhod--izven-pet---29--nov--2024--ob-19-30",
-      "rawDescription": "PET., 29. NOV. 2024, OB 19:30\n\nTRANSPORT: ODHOD, izven\n\nObvestilo (sedežni red ne velja)\n\nTRANSPORT: ODHOD\nZa mladino, Kultura, lutkovna predstava\n\nOder pod zvezdami LGL\n Nakup\n\t5,00 EUR",
-      "additionalInfo": {
-        "genres": [
-          "Za mladino",
-          "Kultura",
-          "lutkovna predstava"
-        ],
-        "notes": "Obvestilo (sedežni red ne velja)",
-        "isVabljeni": false,
-        "hasNote": true
-      }
-    },
-    "kdo-je-napravil-vidku-sraj-ico--izven-sob---30--nov--2024--ob-10-30": {
-      "title": "KDO JE NAPRAVIL VIDKU SRAJČICO, izven",
-      "date": "SOB., 30. NOV. 2024, OB 10:30",
-      "eventDate": "30. NOV. 2024",
-      "venue": "Venue not specified",
-      "price": "Price not available",
-      "status": "sold_out",
-      "availability": "razprodano",
-      "purchaseLink": null,
-      "isSoldOut": true,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "puppet_show",
-      "importance": "normal",
-      "eventId": "kdo-je-napravil-vidku-sraj-ico--izven-sob---30--nov--2024--ob-10-30",
-      "rawDescription": "SOB., 30. NOV. 2024, OB 10:30\n\nKDO JE NAPRAVIL VIDKU SRAJČICO, izven\n\nKDO JE NAPRAVIL VIDKU SRAJČICO\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
-      "additionalInfo": {
-        "genres": [
-          "Za otroke",
-          "Kultura",
-          "lutkovna predstava"
-        ],
-        "notes": null,
-        "isVabljeni": false,
-        "hasNote": false
-      }
-    },
-    "pisma-z-roba-gozda--izven-sob---30--nov--2024--ob-11-00": {
-      "title": "PISMA Z ROBA GOZDA, izven",
-      "date": "SOB., 30. NOV. 2024, OB 11:00",
-      "eventDate": "30. NOV. 2024",
-      "venue": "Venue not specified",
-      "price": "Price not available",
-      "status": "sold_out",
-      "availability": "razprodano",
-      "purchaseLink": null,
-      "isSoldOut": true,
       "isPremiere": false,
       "premiereDate": null,
       "showType": "drama",
       "importance": "normal",
-      "eventId": "pisma-z-roba-gozda--izven-sob---30--nov--2024--ob-11-00",
-      "rawDescription": "SOB., 30. NOV. 2024, OB 11:00\n\nPISMA Z ROBA GOZDA, izven\n\nPISMA Z ROBA GOZDA\nZa otroke, Kultura, dramska predstava\n\nRAZPRODANO",
+      "eventId": "polna-luna--izven-tor---17--dec--2024--ob-17-00",
+      "rawDescription": "TOR., 17. DEC. 2024, OB 17:00\n\nPOLNA LUNA, izven\n\nPOLNA LUNA\nZa otroke, Kultura, dramska predstava\n\nŠentjakobski oder LGL\n Nakup\n\t5,00 EUR",
       "additionalInfo": {
         "genres": [
           "Za otroke",
@@ -1261,49 +1372,22 @@
         "hasNote": false
       }
     },
-    "kdo-je-napravil-vidku-sraj-ico--izven-sob---30--nov--2024--ob-17-00": {
-      "title": "KDO JE NAPRAVIL VIDKU SRAJČICO, izven",
-      "date": "SOB., 30. NOV. 2024, OB 17:00",
-      "eventDate": "30. NOV. 2024",
-      "venue": "Venue not specified",
-      "price": "Price not available",
-      "status": "sold_out",
-      "availability": "razprodano",
-      "purchaseLink": null,
-      "isSoldOut": true,
-      "isPremiere": false,
-      "premiereDate": null,
-      "showType": "puppet_show",
-      "importance": "normal",
-      "eventId": "kdo-je-napravil-vidku-sraj-ico--izven-sob---30--nov--2024--ob-17-00",
-      "rawDescription": "SOB., 30. NOV. 2024, OB 17:00\n\nKDO JE NAPRAVIL VIDKU SRAJČICO, izven\n\nKDO JE NAPRAVIL VIDKU SRAJČICO\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
-      "additionalInfo": {
-        "genres": [
-          "Za otroke",
-          "Kultura",
-          "lutkovna predstava"
-        ],
-        "notes": null,
-        "isVabljeni": false,
-        "hasNote": false
-      }
-    },
-    "pisma-z-roba-gozda--izven-sob---30--nov--2024--ob-17-00": {
-      "title": "PISMA Z ROBA GOZDA, izven",
-      "date": "SOB., 30. NOV. 2024, OB 17:00",
-      "eventDate": "30. NOV. 2024",
-      "venue": "Venue not specified",
-      "price": "Price not available",
-      "status": "sold_out",
-      "availability": "razprodano",
-      "purchaseLink": null,
-      "isSoldOut": true,
+    "polna-luna--izven-sre---18--dec--2024--ob-17-00": {
+      "title": "POLNA LUNA, izven",
+      "date": "SRE., 18. DEC. 2024, OB 17:00",
+      "eventDate": "18. DEC. 2024",
+      "venue": "Šentjakobski oder LGL",
+      "price": "5,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1192936",
+      "isSoldOut": false,
       "isPremiere": false,
       "premiereDate": null,
       "showType": "drama",
       "importance": "normal",
-      "eventId": "pisma-z-roba-gozda--izven-sob---30--nov--2024--ob-17-00",
-      "rawDescription": "SOB., 30. NOV. 2024, OB 17:00\n\nPISMA Z ROBA GOZDA, izven\n\nPISMA Z ROBA GOZDA\nZa otroke, Kultura, dramska predstava\n\nRAZPRODANO",
+      "eventId": "polna-luna--izven-sre---18--dec--2024--ob-17-00",
+      "rawDescription": "SRE., 18. DEC. 2024, OB 17:00\n\nPOLNA LUNA, izven\n\nPOLNA LUNA\nZa otroke, Kultura, dramska predstava\n\nŠentjakobski oder LGL\n Nakup\n\t5,00 EUR",
       "additionalInfo": {
         "genres": [
           "Za otroke",
@@ -1315,10 +1399,10 @@
         "hasNote": false
       }
     },
-    "transport--odhod--izven-sob---30--nov--2024--ob-19-30": {
-      "title": "TRANSPORT: ODHOD, izven",
-      "date": "SOB., 30. NOV. 2024, OB 19:30",
-      "eventDate": "30. NOV. 2024",
+    "mi-ek-julijan--izven-pet---20--dec--2024--ob-17-00": {
+      "title": "MIŠEK JULIJAN, izven",
+      "date": "PET., 20. DEC. 2024, OB 17:00",
+      "eventDate": "20. DEC. 2024",
       "venue": "Venue not specified",
       "price": "Price not available",
       "status": "sold_out",
@@ -1329,11 +1413,38 @@
       "premiereDate": null,
       "showType": "puppet_show",
       "importance": "normal",
-      "eventId": "transport--odhod--izven-sob---30--nov--2024--ob-19-30",
-      "rawDescription": "SOB., 30. NOV. 2024, OB 19:30\n\nTRANSPORT: ODHOD, izven\n\nsedežni red ne velja\n\nTRANSPORT: ODHOD\nZa mladino, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "eventId": "mi-ek-julijan--izven-pet---20--dec--2024--ob-17-00",
+      "rawDescription": "PET., 20. DEC. 2024, OB 17:00\n\nMIŠEK JULIJAN, izven\n\nMIŠEK JULIJAN\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
       "additionalInfo": {
         "genres": [
-          "Za mladino",
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "sovica-oka--izven-sob---21--dec--2024--ob-09-30": {
+      "title": "SOVICA OKA, izven",
+      "date": "SOB., 21. DEC. 2024, OB 09:30",
+      "eventDate": "21. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "sovica-oka--izven-sob---21--dec--2024--ob-09-30",
+      "rawDescription": "SOB., 21. DEC. 2024, OB 09:30\n\nSOVICA OKA, izven\n\nsedežni red ne velja\n\nSOVICA OKA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
           "Kultura",
           "lutkovna predstava"
         ],
@@ -1341,44 +1452,359 @@
         "isVabljeni": false,
         "hasNote": true
       }
-    }
-  },
-  "lastCheck": "2024-11-13T20:55:57.409Z",
-  "upcomingPremieres": [
-    {
-      "title": "PISMA Z ROBA GOZDA, premiera in izven",
-      "date": "2024-11-27T23:00:00.000Z",
-      "venue": "Veliki oder LGL",
-      "rawDate": "28. NOV. 2024",
-      "status": "announced",
+    },
+    "sovica-oka--izven-sob---21--dec--2024--ob-18-00": {
+      "title": "SOVICA OKA, izven",
+      "date": "SOB., 21. DEC. 2024, OB 18:00",
+      "eventDate": "21. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "sovica-oka--izven-sob---21--dec--2024--ob-18-00",
+      "rawDescription": "SOB., 21. DEC. 2024, OB 18:00\n\nSOVICA OKA, izven\n\nsedežni red ne velja\n\nSOVICA OKA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "sedežni red ne velja",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "sovica-oka--izven-ned---22--dec--2024--ob-11-00": {
+      "title": "SOVICA OKA, izven",
+      "date": "NED., 22. DEC. 2024, OB 11:00",
+      "eventDate": "22. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "sovica-oka--izven-ned---22--dec--2024--ob-11-00",
+      "rawDescription": "NED., 22. DEC. 2024, OB 11:00\n\nSOVICA OKA, izven\n\nsedežni red ne velja\n\nSOVICA OKA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "sedežni red ne velja",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "sovica-oka--izven-ned---22--dec--2024--ob-17-15": {
+      "title": "SOVICA OKA, izven",
+      "date": "NED., 22. DEC. 2024, OB 17:15",
+      "eventDate": "22. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "sovica-oka--izven-ned---22--dec--2024--ob-17-15",
+      "rawDescription": "NED., 22. DEC. 2024, OB 17:15\n\nSOVICA OKA, izven\n\nsedežni red ne velja\n\nSOVICA OKA\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "sedežni red ne velja",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "mi-ek-julijan--izven-pon---23--dec--2024--ob-17-00": {
+      "title": "MIŠEK JULIJAN, izven",
+      "date": "PON., 23. DEC. 2024, OB 17:00",
+      "eventDate": "23. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "mi-ek-julijan--izven-pon---23--dec--2024--ob-17-00",
+      "rawDescription": "PON., 23. DEC. 2024, OB 17:00\n\nMIŠEK JULIJAN, izven\n\nMIŠEK JULIJAN\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "mi-ek-julijan-in-pozdrav-dedka-mraza-pet---27--dec--2024--ob-11-00": {
+      "title": "MIŠEK JULIJAN in pozdrav dedka Mraza",
+      "date": "PET., 27. DEC. 2024, OB 11:00",
+      "eventDate": "27. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "mi-ek-julijan-in-pozdrav-dedka-mraza-pet---27--dec--2024--ob-11-00",
+      "rawDescription": "PET., 27. DEC. 2024, OB 11:00\n\nMIŠEK JULIJAN in pozdrav dedka Mraza\n\nMIŠEK JULIJAN\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "mi-ek-julijan-in-pozdrav-dedka-mraza-pet---27--dec--2024--ob-17-00": {
+      "title": "MIŠEK JULIJAN in pozdrav dedka Mraza",
+      "date": "PET., 27. DEC. 2024, OB 17:00",
+      "eventDate": "27. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "mi-ek-julijan-in-pozdrav-dedka-mraza-pet---27--dec--2024--ob-17-00",
+      "rawDescription": "PET., 27. DEC. 2024, OB 17:00\n\nMIŠEK JULIJAN in pozdrav dedka Mraza\n\nMIŠEK JULIJAN\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "-krt--krt-kra--of--in-pozdrav-dedka-mraza-sob---28--dec--2024--ob-11-00": {
+      "title": "ŠKRT ŠKRT KRA ČOF! in pozdrav dedka Mraza",
+      "date": "SOB., 28. DEC. 2024, OB 11:00",
+      "eventDate": "28. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "-krt--krt-kra--of--in-pozdrav-dedka-mraza-sob---28--dec--2024--ob-11-00",
+      "rawDescription": "SOB., 28. DEC. 2024, OB 11:00\n\nŠKRT ŠKRT KRA ČOF! in pozdrav dedka Mraza\n\nsedežni red ne velja\n\nŠKRT ŠKRT KRA ČOF!\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "sedežni red ne velja",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "-krt--krt-kra--of--in-pozdrav-dedka-mraza-sob---28--dec--2024--ob-17-00": {
+      "title": "ŠKRT ŠKRT KRA ČOF! in pozdrav dedka Mraza",
+      "date": "SOB., 28. DEC. 2024, OB 17:00",
+      "eventDate": "28. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "-krt--krt-kra--of--in-pozdrav-dedka-mraza-sob---28--dec--2024--ob-17-00",
+      "rawDescription": "SOB., 28. DEC. 2024, OB 17:00\n\nŠKRT ŠKRT KRA ČOF! in pozdrav dedka Mraza\n\nŠKRT ŠKRT KRA ČOF!\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "-krt--krt-kra--of--in-pozdrav-dedka-mraza-ned---29--dec--2024--ob-11-00": {
+      "title": "ŠKRT ŠKRT KRA ČOF! in pozdrav dedka Mraza",
+      "date": "NED., 29. DEC. 2024, OB 11:00",
+      "eventDate": "29. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "-krt--krt-kra--of--in-pozdrav-dedka-mraza-ned---29--dec--2024--ob-11-00",
+      "rawDescription": "NED., 29. DEC. 2024, OB 11:00\n\nŠKRT ŠKRT KRA ČOF! in pozdrav dedka Mraza\n\nsedežni red ne velja\n\nŠKRT ŠKRT KRA ČOF!\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "sedežni red ne velja",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "pisma-z-roba-gozda-in-pozdrav-dedka-mraza-ned---29--dec--2024--ob-17-00": {
+      "title": "PISMA Z ROBA GOZDA in pozdrav dedka Mraza",
+      "date": "NED., 29. DEC. 2024, OB 17:00",
+      "eventDate": "29. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
       "showType": "drama",
-      "originalEvent": {
-        "title": "PISMA Z ROBA GOZDA, premiera in izven",
-        "date": "ČET., 28. NOV. 2024, OB 18:00",
-        "eventDate": "28. NOV. 2024",
-        "venue": "Veliki oder LGL",
-        "price": "Price not available",
-        "status": "announced",
-        "availability": "upcoming",
-        "purchaseLink": null,
-        "isSoldOut": false,
-        "isPremiere": true,
-        "premiereDate": "28. NOV. 2024",
-        "showType": "drama",
-        "importance": "high",
-        "eventId": "pisma-z-roba-gozda--premiera-in-izven--et---28--nov--2024--ob-18-00",
-        "rawDescription": "ČET., 28. NOV. 2024, OB 18:00\n\nPISMA Z ROBA GOZDA, premiera in izven\n\nNapovedujemo (Premiera za vabljene)\n\nPISMA Z ROBA GOZDA\nZa otroke, Kultura, dramska predstava\n\nVeliki oder LGL",
-        "additionalInfo": {
-          "genres": [
-            "Za otroke",
-            "Kultura",
-            "dramska predstava"
-          ],
-          "notes": "Napovedujemo (Premiera za vabljene)",
-          "isVabljeni": true,
-          "hasNote": true
-        }
+      "importance": "normal",
+      "eventId": "pisma-z-roba-gozda-in-pozdrav-dedka-mraza-ned---29--dec--2024--ob-17-00",
+      "rawDescription": "NED., 29. DEC. 2024, OB 17:00\n\nPISMA Z ROBA GOZDA in pozdrav dedka Mraza\n\nPISMA Z ROBA GOZDA\nZa otroke, Kultura, dramska predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "dramska predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "-krt--krt-kra--of--in-pozdrav-dedka-mraza-pon---30--dec--2024--ob-11-00": {
+      "title": "ŠKRT ŠKRT KRA ČOF! in pozdrav dedka Mraza",
+      "date": "PON., 30. DEC. 2024, OB 11:00",
+      "eventDate": "30. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "puppet_show",
+      "importance": "normal",
+      "eventId": "-krt--krt-kra--of--in-pozdrav-dedka-mraza-pon---30--dec--2024--ob-11-00",
+      "rawDescription": "PON., 30. DEC. 2024, OB 11:00\n\nŠKRT ŠKRT KRA ČOF! in pozdrav dedka Mraza\n\nsedežni red ne velja\n\nŠKRT ŠKRT KRA ČOF!\nZa otroke, Kultura, lutkovna predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "lutkovna predstava"
+        ],
+        "notes": "sedežni red ne velja",
+        "isVabljeni": false,
+        "hasNote": true
+      }
+    },
+    "pisma-z-roba-gozda-in-pozdrav-dedka-mraza-pon---30--dec--2024--ob-17-00": {
+      "title": "PISMA Z ROBA GOZDA in pozdrav dedka Mraza",
+      "date": "PON., 30. DEC. 2024, OB 17:00",
+      "eventDate": "30. DEC. 2024",
+      "venue": "Venue not specified",
+      "price": "Price not available",
+      "status": "sold_out",
+      "availability": "razprodano",
+      "purchaseLink": null,
+      "isSoldOut": true,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "drama",
+      "importance": "normal",
+      "eventId": "pisma-z-roba-gozda-in-pozdrav-dedka-mraza-pon---30--dec--2024--ob-17-00",
+      "rawDescription": "PON., 30. DEC. 2024, OB 17:00\n\nPISMA Z ROBA GOZDA in pozdrav dedka Mraza\n\nPISMA Z ROBA GOZDA\nZa otroke, Kultura, dramska predstava\n\nRAZPRODANO",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "dramska predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
+      }
+    },
+    "pisma-z-roba-gozda-in-pozdrav-dedka-mraza-tor---31--dec--2024--ob-11-00": {
+      "title": "PISMA Z ROBA GOZDA in pozdrav dedka Mraza",
+      "date": "TOR., 31. DEC. 2024, OB 11:00",
+      "eventDate": "31. DEC. 2024",
+      "venue": "Veliki oder LGL",
+      "price": "9,00 EUR",
+      "status": "available",
+      "availability": "on_sale",
+      "purchaseLink": "https://lgl.mojekarte.si/si/basket/add/1192907",
+      "isSoldOut": false,
+      "isPremiere": false,
+      "premiereDate": null,
+      "showType": "drama",
+      "importance": "normal",
+      "eventId": "pisma-z-roba-gozda-in-pozdrav-dedka-mraza-tor---31--dec--2024--ob-11-00",
+      "rawDescription": "TOR., 31. DEC. 2024, OB 11:00\n\nPISMA Z ROBA GOZDA in pozdrav dedka Mraza\n\nPISMA Z ROBA GOZDA\nZa otroke, Kultura, dramska predstava\n\nVeliki oder LGL\n Nakup\n\t9,00 EUR",
+      "additionalInfo": {
+        "genres": [
+          "Za otroke",
+          "Kultura",
+          "dramska predstava"
+        ],
+        "notes": null,
+        "isVabljeni": false,
+        "hasNote": false
       }
     }
-  ]
+  },
+  "lastCheck": "2024-12-02T20:59:33.764Z",
+  "upcomingPremieres": []
 }
