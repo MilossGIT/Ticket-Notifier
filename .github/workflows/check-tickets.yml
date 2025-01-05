@@ -22,6 +22,8 @@ jobs:
       PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: true
       PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
       NODE_ENV: production
+      XVFB_WHD: '1920x1080x24'
+      DISPLAY: ':99.0'
 
     steps:
       - name: Checkout repository
@@ -30,7 +32,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: '18'
           cache: 'npm'
 
       - name: Install system dependencies
@@ -40,52 +42,23 @@ jobs:
             chromium-browser \
             xvfb \
             libgbm-dev \
-            libasound2 \
-            libatk1.0-0 \
-            libc6 \
-            libcairo2 \
-            libcups2 \
-            libdbus-1-3 \
-            libexpat1 \
-            libfontconfig1 \
-            libgcc1 \
-            libgconf-2-4 \
-            libgdk-pixbuf2.0-0 \
-            libglib2.0-0 \
-            libgtk-3-0 \
-            libnspr4 \
-            libpango-1.0-0 \
-            libpangocairo-1.0-0 \
-            libstdc++6 \
-            libx11-6 \
-            libx11-xcb1 \
-            libxcb1 \
-            libxcomposite1 \
-            libxcursor1 \
-            libxdamage1 \
-            libxext6 \
-            libxfixes3 \
-            libxi6 \
-            libxrandr2 \
-            libxrender1 \
-            libxss1 \
-            libxtst6 \
-            ca-certificates \
-            fonts-liberation \
-            libappindicator1 \
             libnss3 \
-            lsb-release \
-            xdg-utils
+            libatk1.0-0 \
+            libatk-bridge2.0-0 \
+            libcups2 \
+            libdrm2 \
+            libxkbcommon0 \
+            libxcomposite1 \
+            libxdamage1 \
+            libxfixes3 \
+            libxrandr2 \
+            libgbm1 \
+            libpango-1.0-0 \
+            libcairo2 \
+            libasound2
 
       - name: Install dependencies
-        run: |
-          npm ci
-          npm install puppeteer-extra puppeteer-extra-plugin-stealth puppeteer-extra-plugin-adblocker
-
-      - name: Setup environment
-        run: |
-          echo "DISPLAY=:99" >> $GITHUB_ENV
-          echo "XVFB_WHD=1920x1080x24" >> $GITHUB_ENV
+        run: npm ci
 
       - name: Create .env file
         env:
@@ -103,14 +76,13 @@ jobs:
 
       - name: Start Xvfb
         run: |
-          Xvfb :99 -screen 0 ${{ env.XVFB_WHD }} &
+          Xvfb :99 -screen 0 1920x1080x24 &
           sleep 3
 
       - name: Run ticket checker
         run: |
           node src/github-action-runner.js 2>&1 | tee ticket_checker.log
         env:
-          DISPLAY: ':99.0'
           NODE_OPTIONS: '--max-old-space-size=4096'
 
       - name: Stop Xvfb
@@ -128,12 +100,6 @@ jobs:
             *.log
             src/scraper_state.json
           retention-days: 7
-
-      - name: Cleanup
-        if: always()
-        run: |
-          rm -f .env
-          rm -rf node_modules
 
       - name: Report status
         if: always()
